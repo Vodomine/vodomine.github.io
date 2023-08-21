@@ -131,10 +131,10 @@ plugins:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: true
+        output: false
         permalink: /wiki/:path/
     fragments:
-        output: true
+        output: false
         permalink: /fragment/:path/
 
 # ---------------- #
