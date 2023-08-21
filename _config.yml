@@ -5,9 +5,9 @@ baseurl:
 url: https://vodomine.github.io
 date_format: "ordinal"
 title: floatAfloat
-subtitle: "floatAflaot blog"
+subtitle: "floatAfloat blog"
 description: "floatAfloat blog"
-#keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+#keywords: 码志, 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -57,7 +57,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Jet
 organization: 
 organization_url: 
 #github_username: mzlogin
@@ -87,12 +87,12 @@ navs:
     mobile-hidden: true
 
   -
-    href: /fragments/
-    label: 片段
+    #href: /fragments/
+    #label: 片段
 
   -
-    href: /wiki/
-    label: 维基
+    #href: /wiki/
+    #label: 维基
 
   -
     href: /links/
