@@ -4,14 +4,14 @@
 baseurl:
 url: https://vodomine.github.io
 date_format: "ordinal"
-title: floatAfloat
+title: 机场及VPS
 subtitle: "floatAfloat blog"
 description: "floatAfloat blog"
 #keywords: 码志, 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2023
+since: 2023-2025
 # 源码仓库，请替换成自己的
 repository: Vodomine/vodomine.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -28,11 +28,11 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2023-08-21
+        start_date: 2023-01-01
     # My Popular Repositories
     side_bar_repo:
         enabled: false
-        limit: 5
+        limit: 4
     # 文章字数统计
     word_count:
         enabled: true
@@ -76,25 +76,25 @@ navs:
     href: /categories/
     label: 分类
 
-  -
+  
     #href: /archives/
     #label: 归档
     #mobile-hidden: true
 
-  -
+
     #href: /open-source/
     #label: 开源
     #mobile-hidden: true
 
-  -
+  
     #href: /fragments/
     #label: 片段
 
-  -
+  
     #href: /wiki/
     #label: 维基
 
-  -
+  
     #href: /links/
     #label: 链接
     #mobile-hidden: true
