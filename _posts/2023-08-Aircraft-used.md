@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自用靠谱机场（2023/8）
-categories: [cate1, cate2]
+categories: VPS
 description: 最近测试过的靠谱机场
 keywords: SSR, VaRay,Trojan
 mermaid: false
