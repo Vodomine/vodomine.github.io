@@ -4,9 +4,9 @@
 baseurl:
 url: https://vodomine.github.io
 date_format: "ordinal"
-title: 机场及VPS
-subtitle: "floatAfloat blog"
-description: "floatAfloat blog"
+title: 靠谱机场及VPS虚拟主机记录
+subtitle: "floatAfloat Blog"
+description: "floatAfloat Blog"
 #keywords: 码志, 
 timezone: Asia/Shanghai
 encoding: "utf-8"
