@@ -1,93 +1,131 @@
-# 码志
+## 写在前面
+2023年因为工作需要，需要科学上网，结果该话题国内被屏蔽，很少有什么信息，花费了很大精力去查价格合适，稳定好用的机场，为了方便，用过的简单整理了一下。   
+机场基本上是一分钱一分货，里面好多专业知识，名词啥的搞不太懂，太过便宜的一般速度有时较慢，而且使用起来不稳定，买的时候不能只图便宜，开业时间长的老机场相对更可靠，技术及运营团队也比较给力，一般老板不开了也会找到人接手运营，所以优先选择开业年限长的。  
+
+很多机场推荐网站列出一堆机场，让人看着不知道选哪个，以下是我踩坑后挑出来的，希望帮到有缘看到的人。
+
+1. 便宜机场很多套路，尽量还是选择稍微贵一点点，比较靠谱的机场:  
+1) 求使用稳定地最好20块/月起的，我用了**老猫云**，**可乐云**，**wGetcloud**  
+2) 想要便宜的，10块/月左右机场：**TaiShan(6/月64G)**、**泡泡狗(7.5/月70G)**   
+3) 能注册免费试用的：**大讯云（10G两天）**，**TaiShan(5G一天)**  
+4) 求极致稳定可靠，不太在乎价格的选**Just my sock**，搬瓦工官方机场，唯一国外正规大公司。  
+
+2. 客户端推荐：（我用的是**Clash**,自动根据速度切换节点，很方便）  
+1) Windows：Clash For Windows、V2rayN      
+2) Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro     
+3) IOS：小火箭、Stash  
+4) 安卓：ClashforAndroid(CFA)、V2rayNG  
 
 
-## 概览
+### 一、老猫云(20￥/月100G)
 
-<!-- vim-markdown-toc GFM -->
+开业7年，老机场分站，拥有香港，新加坡，日本，美国节点，速度都挺快，不限制客户端，目前个人正在用，8月中旬时候出了两天故障连不上，解决后补偿一个月订阅，老板还是挺良心的，我现在是C套餐年付。  
 
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [使用文档](#使用文档)
-* [经验与思考](#经验与思考)
-* [联系我](#联系我)
-* [致谢](#致谢)
+[老猫云官网链接](https://lm.laomaoyun.me/#/register?code=LiENizAR)
 
-<!-- vim-markdown-toc -->
+**套餐：**
 
-## 效果预览
+套餐 |  流量 | 价格 
+:-: |  :-: | :-: 
+B套餐 | 50G/月 |15￥/月
+C套餐 | 100G/月 |20￥/月
+D套餐 | 200G/月 |30￥/月
+E套餐 | 300G/月|40￥/月
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+### 二、可乐云(20￥/月350G)  
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+套餐20起步，流量给的挺多，使用稳定, 用过，因为限制客户端，所以换用其他的。             
 
-## Fork 指南
+[可乐云官网](https://user.colacloud.net/#/register?code=6nsFRwoI )
 
-Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
+**套餐:**
 
-1. 正确设置项目名称与分支。
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+轻量 | 350G/月 | 20￥/月 | 5
+少量 | 500G/月 | 25￥/月 | 5
+中量 | 750G/月 | 28￥/月 | 5
 
-   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
+### 三、WgetCloud(49￥/月120G) 
 
-2. 修改域名。
+开业时间2021年，稳定性不错，特殊时期，其他机场不稳定时用过一个月，有点贵，后来换了其他的。  
 
-   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容，并参考 [配置 GitHub Pages 站点的自定义域](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site) 做好配置；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
+新用户注册8折优惠券
 
-3. 修改配置。
+[WgetCloud官网链接](https://invite.wgetcloud.ltd/auth/register?code=GvMi )  
 
-   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
+**套餐:**         
 
-   **评论模块：** 目前支持 disqus、gitment、gitalk、utterances、beaudar 和 giscus，选用其中一种就可以了，推荐使用 giscus。它们各自的官方配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了，请参考官方指南配置。
+套餐 | 线路 | 套餐            
+:-: | :-:  | :-:
+基础 | 15个节点 | 120G/月49￥/月；180G/月147￥/季；240G/月588￥/年           
+优质 | 15个节点 | 120G/月59￥/月；180G/月177￥/季；240G/月708￥/年         
+精品 | 29个节点 | 120G/月69￥/月；180G/月207￥/季；240G/月828￥/年
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
+### 四、泡泡狗(7.5/月70G) 便宜备用  
 
-4. 删除我的文章与图片。
+全IEPL专线中转SS机场，开业时间2022年。       
 
-   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
+[泡泡狗官网](https://www.paopao.dog/#/register?code=e9r22fNS )
 
-   * \_posts 文件夹中是我已发布的博客文章。
-   * \_drafts 文件夹中是我尚未发布的博客文章。
-   * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * \_fragments 文件夹中是我已发布的短文片段。
-   * images 文件夹中是我的文章和页面里使用的图片。
+**套餐:**
 
-5. 修改「关于」页面。
+* 7.5￥/月 70G流量   
+* 12.5￥/月 110G流量   
+* 20￥/月 210G流量   
+* 33￥/月 380G流量   
+* 45￥/月 600G流量   
+* 72￥/月 1000G流量   
+* 83￥/月 1300G流量   
 
-   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
+### 五、大讯云(10/月80G) 注册免费试用
+注册送两天10G流量。           
 
-   skills.yml 和 social.yml 里内容的含义可以参考：[_data 目录下的 yml 文件内容含义](https://mazhuang.org/2020/05/03/blog-template-qna/#_data-%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84-yml-%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%90%AB%E4%B9%89)。
+[大讯云官网](https://daxun.info/#/register?code=VLAYLLaS )
 
-## 使用文档
+**套餐:**
 
-- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+初级会员 | 80G/月 | 10￥/月 | 2
+中级会员 | 150G/月 | 20￥/月 | 5
+高级会员 | 520G/月 | 25￥/月 | 10
 
-- 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
+### 六、TaiShan(6￥/月64G) 注册免费试用
 
-## 经验与思考
+开业时间2022年，注册送5G流量一天试用，以后人如果注册多了可能会慢，但目前用户不多。
 
-* 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
+[TaiShan官网地址](https://www.taishan.pro/#/register?code=4UL2NXmU)
 
-* 简约，尽量每个页面都不展示多余的内容。
+**套餐：**
 
-* 有时一图抵千言，有时可能只会拖慢网页加载速度。
+套餐 |  流量 | 价格 
+:-: |  :-: | :-: 
+基础 | 64G/月 |6￥/月;15/季;25/半年
+进阶 | 128G/月 |10￥/月;27/季;48/半年
+高端 | 256G/月 |18￥/月;54/季;86/半年
+至尊 | 512G/月|32￥/月;86/季;153/半年
 
-* 言之有物，不做无痛之呻吟。
+### 七、Just my sock(5.8$/月500G) 搬瓦工官方机场 
 
-* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
+搬瓦工官方机场，唯一我所知的正规大公司,非私人机场，安全无审计，开业时间2018年，注册需要科学上网，可以先注册上面的可免费试用的机场，然后试用临时订阅访问Justmysock官网注册，这机场优点主要是正规海外大公司，数据安全，没什么跑路风险。                             
 
-* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
+[官网注册地址，需要科学上网访问](https://justmysocks.net/members/aff.php?aff=28042)
 
-* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
+**套餐:**
 
-## 联系我
+1)Just My Socks IPLC HK 300**EARLY ACCESS：延迟低非常稳定。                
+* 100G/月15$，3个设备。
+* 300G/月21$，3个设备。         
+* 1T/月59$，3个设备。              
+                         
+2)Just My Socks HK CMI+NTT Plan 500 ：
+* 8.99$/月，500GB/月，5个设备。                       
 
-如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
+3)Just My Socks London 500：
+* 6.8$/月，500GB/月，5个设备。         
 
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
-
-## 致谢
-
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
-
-[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
+4)Just My Socks LA，(直连线路，网速有时候较慢)：         
+* 500G流量，5.88$/月，5个设备。          
+* 1T流量，9.88$/月，不限设备数。        
+* 5T流量，48.99$/月，不限设备数。               
