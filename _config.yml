@@ -6,8 +6,8 @@ url:
 date_format: "ordinal"
 title: 机场及VPS虚拟主机
 subtitle: "floatAfloat Blog"
-description: "floatAfloat Blog"
-#keywords: 码志, 
+description: 机场,VPN,Clash,VaRay,科学上网
+#keywords: 机场,VPN,Clash,VaRay,科学上网
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2023-01-01
+        start_date: 2023-08-01
     # My Popular Repositories
     side_bar_repo:
         enabled: false
@@ -72,9 +72,9 @@ navs:
     href: /
     label: 首页
 
-  #-
-    #href: /categories/
-    #label: 分类
+  -
+    href: /categories/
+    label: 分类
 
   #-
     #href: /archives/
