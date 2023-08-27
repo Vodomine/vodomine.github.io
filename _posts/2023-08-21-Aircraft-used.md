@@ -10,6 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+topmost: true
 ---
 ## 写在前面
 2023年因为工作需要，需要科学上网，结果该话题国内被屏蔽，很少有什么信息，花费了很大精力去查价格合适，稳定好用的机场，为了方便，用过的简单整理了一下。   
