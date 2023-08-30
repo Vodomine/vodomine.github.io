@@ -18,10 +18,10 @@ topmost: true
 机场基本上是一分钱一分货，里面好多专业知识，名词啥的搞不太懂，太过便宜的一般速度有时较慢，而且使用起来不稳定，买的时候不能只图便宜，开业时间长的老机场相对更可靠，技术及运营团队也比较给力，一般老板不开了也会找到人接手运营，所以优先选择开业年限长的。   
 
 1. 便宜机场很多套路，尽量还是选择稍微贵一点点，比较靠谱的机场:  
-1) 求使用稳定地最好20块/月起的，我用了**老猫云**，**可乐云**    
-2) 想要便宜的，10块/月左右机场：**TaiShan(6/月64G)**、**泡泡狗(7.5/月70G)**   
-3) 能注册免费试用的：**大讯云（10G两天）**，**TaiShan(5G一天)**    
-4) 求极致稳定可靠，不太在乎价格的选**Just my sock**，搬瓦工官方机场，唯一国外正规大公司。  
+1) 求使用稳定地最好20块/月起的，我用了[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
+2) 想要便宜的，10块/月左右机场：[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
+3) 能注册免费试用的：[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )，[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)    
+4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
 
 2. 客户端推荐：（我用的是**Clash**,自动根据速度切换节点，很方便）  
 1) Windows：Clash For Windows、V2rayN      
