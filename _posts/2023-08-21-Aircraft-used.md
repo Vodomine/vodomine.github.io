@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 自用过的机场记录推荐（2023/8更新）
-categories: 机场
-description: 自用可靠机场记录推荐，
+categories: 机场及工具
+description: 自用可靠机场记录推荐
 keywords: 机场推荐,Clash,免费,订阅，科学上网
 mermaid: false
 sequence: false
@@ -12,12 +12,11 @@ mindmap: false
 mindmap2: false
 topmost: true
 ---
-## 写在前面
-2023年因为工作需要，需要科学上网，结果该话题国内被屏蔽，很少有什么信息，很多机场推荐网站列出一堆机场，让人看着不知道选哪个，花费了很大精力去查价格合适，稳定好用的机场，为了方便，用过的好用的简单整理了一下，希望帮到有缘看到的人。  
+近期因为工作需要，需要科学上网，但该话题国内被屏蔽，网上都找到的有用信息极少，很多机场推荐网站列出很多机场，看了不知道选哪个，花费了很大精力去查价格合适，稳定好用的机场，一番折腾下来，我觉得不需要那么多选项，或者需要稳定的，或者量大便宜的，知道三四个靠谱的就够了，为了方便，试过的几个简单整理了一下，希望帮到和我面临同样问题人。  
 
 机场基本上是一分钱一分货，里面好多专业知识，名词啥的搞不太懂，太过便宜的一般速度有时较慢，而且使用起来不稳定，买的时候不能只图便宜，开业时间长的老机场相对更可靠，技术及运营团队也比较给力，一般老板不开了也会找到人接手运营，所以优先选择开业年限长的。   
 
-1. 便宜机场很多套路，尽量还是选择稍微贵一点点，比较靠谱的机场:  
+1. 试用过的几个汇总在这，下面有相对详细的信息    
 1) 求使用稳定地最好20块/月起的，我用了[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
 2) 想要便宜的，10块/月左右机场：[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
 3) 能注册免费试用的：[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )，[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)    
@@ -47,7 +46,7 @@ E套餐 | 300G/月|40￥/月
 
 ### 二、可乐云(20￥/月350G)  
 
-套餐20起步，流量给的挺多，使用稳定, 用过，因为限制客户端，所以换用其他的。             
+套餐20起步，流量给的挺多，使用稳定, 用过，因为限制客户端5个，我的还给家人用，5个不太够，所以换用其他的。             
 
 [可乐云官网](https://user.colacloud.net/#/register?code=6nsFRwoI )
 
