@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: https://openways.com
 date_format: "ordinal"
 title: 自由之路FreeWay
 subtitle: "每一个人都在寻求自由"
