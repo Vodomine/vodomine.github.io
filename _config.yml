@@ -3,6 +3,7 @@
 # ---------------- #
 baseurl:
 url: https://openwayz.com
+root: /
 date_format: "ordinal"
 title: 自由之路FreeWay
 subtitle: "每一个人都在寻求自由"
@@ -53,6 +54,10 @@ compress_html:
   comments: ["<!--", "-->"]
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
+
+#sitemap
+sitemap:
+  path: sitemap.xml
 
 # ---------------- #
 #      Author      #
