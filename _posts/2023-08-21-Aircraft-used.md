@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自用过的机场记录推荐（2023/8更新）
-categories: 机场及工具
+categories: 机场推荐
 description: 自用可靠机场记录推荐
 keywords: 机场推荐,Clash,免费,订阅，科学上网，梯子
 mermaid: false
