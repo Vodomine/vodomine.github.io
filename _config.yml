@@ -105,8 +105,8 @@ navs:
     #mobile-hidden: true
 
   -
-    #href: /about/
-    #label: 关注Telegram频道
+    href: /about/
+    label: 关注Telegram频道
 
 # ---------------- #
 #       RSS        #
