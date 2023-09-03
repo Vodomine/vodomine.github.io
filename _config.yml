@@ -104,10 +104,10 @@ navs:
     #label: 链接
     #mobile-hidden: true
 
-  -
+  #-
     #href: /about/
-    href: “https://t.me/openwayz”
-    label: 关注Telegram频道
+    #href: “https://t.me/openwayz”
+    #label: 关注Telegram频道
 
 # ---------------- #
 #       RSS        #
