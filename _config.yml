@@ -105,7 +105,8 @@ navs:
     #mobile-hidden: true
 
   -
-    href: /about/
+    #href: /about/
+    href: “https://t.me/openwayz”
     label: 关注Telegram频道
 
 # ---------------- #
