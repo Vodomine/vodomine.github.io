@@ -1,41 +1,22 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
-menu: 关于
+title: 关注我，掌握最新消息
+description: 关注Telegram，了解机场最新信息
+keywords: 机场推荐
+comments: false
+menu: 关注Telegram频道
 permalink: /about/
 ---
+了解最新机场的推荐信息，最新机场优惠折扣信息，相关新闻。
 
-我是马壮，码而生，码而立。
+分享电视TVbox去广告，会员相关信息，欢迎关注我的Telegram。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
-## 联系
-
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
+### Telegram
+关于Telegram是什么，可自行搜索。
 
 
-## Skill Keywords
+[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+
+
+

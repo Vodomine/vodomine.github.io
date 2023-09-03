@@ -62,7 +62,7 @@ sitemap:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: floatAfloat
+author: FreeWay
 organization: 
 organization_url: 
 #github_username: mzlogin
@@ -104,9 +104,9 @@ navs:
     #label: 链接
     #mobile-hidden: true
 
-  #-
+  -
     #href: /about/
-    #label: 关于
+    #label: 关注Telegram频道
 
 # ---------------- #
 #       RSS        #
