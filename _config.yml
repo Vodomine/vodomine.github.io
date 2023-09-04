@@ -7,7 +7,7 @@ root: /
 date_format: "ordinal"
 title: 自由之路FreeWay
 subtitle: "每一个人都在寻求自由"
-description: 机场,VPN,Clash,VaRay,科学上网
+description: 分享机场信息，推荐优惠，Clash使用,科学上网
 #keywords: 机场,VPN,Clash,VaRay,科学上网
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -54,10 +54,6 @@ compress_html:
   comments: ["<!--", "-->"]
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
-
-#sitemap
-sitemap:
-  path: sitemap.xml
 
 # ---------------- #
 #      Author      #
@@ -121,7 +117,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 10
+paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
