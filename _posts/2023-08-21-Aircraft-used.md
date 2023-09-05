@@ -21,7 +21,7 @@ topmost: true
 1. 试用过的几个汇总在这，下面有相对详细的信息    
 1) 求使用稳定地最好20块/月起的，用了[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
 2) 想要便宜的，10块/月左右机场：[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
-3) 能注册免费试用的：[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )，[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)    
+3) 能注册免费试用的：[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )，[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)    
 4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
 
 2. 客户端：（我用的是**Clash**,自动根据速度切换节点，很方便）  
@@ -89,7 +89,19 @@ E套餐 | 300G/月|40￥/月
 中级会员 | 150G/月 | 20￥/月 | 5
 高级会员 | 520G/月 | 25￥/月 | 10
 
-### 五、TaiShan(6￥/月64G) 注册免费试用
+### 五、大哥云(19/月100G) 注册免费试用
+开业时间2020年，注册送1天10G流量，         
+
+[大哥云官网](https://ab12y.com/#/register?code=6vTa3zI7 )
+
+**套餐:**
+
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+套餐A | 100G/月 | 19.9￥/月 | 3
+套餐B | 150G/月 | 29.9￥/月 | 3
+
+### 六、TaiShan(6￥/月64G) 注册免费试用
 
 开业时间2022年，注册送5G流量一天试用，以后人如果注册多了老板不扩容可能会慢，但目前用户不多，响应很快。
 
