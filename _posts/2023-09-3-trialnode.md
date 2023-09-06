@@ -21,7 +21,8 @@ permalink: /:title/
 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
 * [*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )
-* [*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)  
+* [*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU) 
+* [*奈云(5G三天)*]( https://naiunny.store/#/register?code=KfeBrj3u)  
 * [*极光加速(10G两天) 节点很多*]( https://jgjs02.com/#/register?code=WRLKZyUS)  
 * [*农夫山泉(1G两天)*]( https://sp.nfsq.me/#/register?code=4UIafAWN)   
 
@@ -41,11 +42,10 @@ permalink: /:title/
 * [**Clash For WIndows使用教程**](https://www.openwayz.com/2023/08/25/Clash/)
 * [**ClashX For WIndows使用教程**](https://www.openwayz.com/2023/08/28/ClashX/)
 
- 更多可注册免费试用的机场，可参考我的另一篇总结，[*注册可免费试用的机场*](https://www.openwayz.com/trialnode/)  
      
 ### Telegram
 了解最新机场的信息，最新机场优惠折扣信息，免费机场分享，相关新闻。
 
-欢迎关注我的Telegram。
+欢迎关注我的Telegram频道。
 
 [*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)
