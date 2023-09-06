@@ -29,7 +29,10 @@ permalink: /:title/
 
 ***更多及时的分享可关注本文下方Tg频道*** 
 
-### 客户端：（推荐**Clash**,自动根据速度切换节点，很方便）  
+### 客户端
+
+推荐**Clash**,自动根据速度切换节点，很方便  
+
 1) Windows：Clash For Windows、V2rayN      
 2) Mac：ClashX、ClashX Pro     
 3) IOS：Shadowrocket(小火箭)    
@@ -40,7 +43,6 @@ permalink: /:title/
 
  更多可注册免费试用的机场，可参考我的另一篇总结，[*注册可免费试用的机场*](https://www.openwayz.com/trialnode/)  
      
-
 ### Telegram
 了解最新机场的信息，最新机场优惠折扣信息，免费机场分享，相关新闻。
 
