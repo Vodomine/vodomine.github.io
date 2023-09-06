@@ -26,7 +26,7 @@ permalink: /:title/
 * [*极光加速(10G两天) 节点很多*]( https://jgjs02.com/#/register?code=WRLKZyUS)  
 * [*农夫山泉(1G两天)*]( https://sp.nfsq.me/#/register?code=4UIafAWN)   
 
-可付费购买可稳定使用的机场，可参考我的另一篇总结，[*自用机场记录*](https://www.openwayz.com/jichang/)  
+可付费购买可稳定使用的机场，可参考我的另一篇总结，✔️[*自用机场记录*](https://www.openwayz.com/jichang/)  
 
 ***更多及时的分享可关注本文下方Tg频道*** 
 
@@ -48,4 +48,4 @@ permalink: /:title/
 
 欢迎关注我的Telegram频道。
 
-[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)
+🔥[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)
