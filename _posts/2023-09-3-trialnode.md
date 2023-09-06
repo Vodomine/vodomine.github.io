@@ -37,6 +37,8 @@ permalink: /:title/
 
 * [**Clash For WIndows使用教程**](https://www.openwayz.com/2023/08/25/Clash/)
 * [**ClashX For WIndows使用教程**](https://www.openwayz.com/2023/08/28/ClashX/)
+
+ 更多可注册免费试用的机场，可参考我的另一篇总结，[*注册可免费试用的机场*](https://www.openwayz.com/trialnode/)  
      
 
 ### Telegram
