@@ -19,9 +19,9 @@ topmost: false
 **注意！！：机场不是法外之地，万不能用于非法用途，或者发表不恰当言论，只能用于正常工作或者查资料，不然都可以找到你，有侥幸心理的人劝你打住**
 
 1. 试用过的几个汇总在这，下面有相对详细的信息    
-1) 求使用稳定地最好20块/月起的，用了[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
-2) 想要便宜的，10块/月左右机场：[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
-3) 能注册免费试用的：[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )，✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)    
+1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
+2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、✔️[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
+3) 能注册免费试用的：✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)，[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )    
 4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
 
 2. 客户端：（我用的是**Clash**,自动根据速度切换节点，很方便）  
@@ -30,6 +30,7 @@ topmost: false
 3) IOS：Shadowrocket(小火箭)    
 4) 安卓：ClashforAndroid(CFA)    
 
+更多可注册试用流量白嫖的机场，可参考我的另一篇总结，✔️[*注册可免费试用的机场*](https://www.openwayz.com/trialnode/)  
 
 ### 一、老猫云(20￥/月100G)
 
@@ -73,8 +74,8 @@ E套餐 | 300G/月|40￥/月
 * 20￥/月 210G流量   
 * 33￥/月 380G流量   
 * 45￥/月 600G流量   
-* 72￥/月 1000G流量   
-* 83￥/月 1300G流量   
+* 30￥   150G流量不限时   
+* 60￥   300G流量不限时  
 
 ### 四、大讯云(10/月80G) 注册免费试用
 注册送两天10G流量。           
@@ -141,7 +142,6 @@ E套餐 | 300G/月|40￥/月
 
 [奶昔机场官网](https://nxboom.com/signupbyemail.aspx?MemberCode=6544b20fbca84f2ca30db92f091e1cad20230906214329)              
 
-更多可注册试用流量白嫖的机场，可参考我的另一篇总结，✔️[*注册可免费试用的机场*](https://www.openwayz.com/trialnode/)  
 
 ### Telegram
 了解最新机场的信息，最新机场优惠折扣信息，相关新闻。
