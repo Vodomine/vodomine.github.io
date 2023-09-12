@@ -35,15 +35,15 @@ ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对
 
 ### 2、界面预览
 
-![Clashforandroid主界面](/images/posts/Clashforandroid/main.webp)
+![Clashforandroid主界面](/images/posts/Clashforandroid/main.webp){width="418" height="921"}
 
 主界面点击配置进入配置界面
 
-![Clashforandroid配置页面](/images/posts/Clashforandroid/peizhi.webp)
+![Clashforandroid配置页面](/images/posts/Clashforandroid/peizhi.webp){width="418" height="921"}
 
 点击软件右上角的 ➕ 键，添加配置文件，有两种添加配置文件的方式,通常选择从URL导入,即从订阅连接获取配置
 
-![Clashforandroid导入](/images/posts/Clashforandroid/daoru.webp)
+![Clashforandroid导入](/images/posts/Clashforandroid/daoru.webp){width="418" height="921"}
 
 ### 3、订阅地址获取 
 
@@ -54,7 +54,7 @@ ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对
 * 开启连接，点击启动，如果是第一次使用会提示你开启VPN连接，点击确定即可
 * 检查手机状态栏右上角，是否有一个 VPN(钥匙) 图标
     
-    ![机场订阅](/images/posts/Clashforandroid/001.png)![机场订阅](/images/posts/Clashforandroid/002.png)![机场订阅](/images/posts/Clashforandroid/003.png)![机场订阅](/images/posts/Clashforandroid/004.png)
+    ![机场订阅](/images/posts/Clashforandroid/001.png){width="418" height="921"}![机场订阅](/images/posts/Clashforandroid/002.png){width="418" height="921"}![机场订阅](/images/posts/Clashforandroid/003.png){width="418" height="921"}![机场订阅](/images/posts/Clashforandroid/004.png){width="418" height="921"}
 
 ### 3、代理模式
 当按钮呈蓝色并且显示"运行中"时表示 Clash 目前正在运行中，我们可以点击"代理"来进行节点的选择以及代理模式的更改，  
