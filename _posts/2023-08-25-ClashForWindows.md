@@ -10,6 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+permalink: /:title/
 ---
 Clash是一个开源、免费的网络连接代理内核，其原理是通过预先定义的规则，对网络连接进行转发，用于科学上网（翻墙）。      
 

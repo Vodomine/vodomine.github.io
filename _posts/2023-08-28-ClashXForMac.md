@@ -10,6 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+permalink: /:title/
 ---
 ClashX For Mac下载、使用教程
 
