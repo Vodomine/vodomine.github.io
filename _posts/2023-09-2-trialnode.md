@@ -20,7 +20,7 @@ permalink: /:title/
 ### 可试用机场列表
 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
-* [*大哥云（10G一天）*](https://www.dageyun.net/#/register?code=6vTa3zI7 )
+* [*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )
 * [*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU) 
 * [*SSRdog(3G一天)*]( https://dog.ssrdog111.com/#/register?code=O0dxApsX)  
 * [*奈云(5G三天)*]( https://naiunny.store/#/register?code=KfeBrj3u)  
