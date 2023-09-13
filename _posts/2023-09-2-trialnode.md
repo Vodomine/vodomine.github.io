@@ -24,8 +24,7 @@ permalink: /:title/
 * [*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU) 
 * [*SSRdog(3G一天)*]( https://dog.ssrdog111.com/#/register?code=O0dxApsX)  
 * [*奈云(5G三天)*]( https://naiunny.store/#/register?code=KfeBrj3u)  
-* [*极光加速(10G两天) 节点很多*]( https://jgjs02.com/#/register?code=WRLKZyUS)  
-* [*农夫山泉(1G两天)*]( https://sp.nfsq.me/#/register?code=4UIafAWN)   
+* [*极光加速(10G两天) 节点很多*]( https://jgjs02.com/#/register?code=WRLKZyUS)    
 
 **可付费购买可稳定使用的机场，可参考我的另一篇总结，**🔥[*自用机场记录*](https://www.openwayz.com/jichang/)  
 
@@ -40,8 +39,9 @@ permalink: /:title/
 3) IOS：Shadowrocket(小火箭)    
 4) 安卓：ClashforAndroid(CFA) 
 
-* [**Clash For WIndows使用教程**](https://www.openwayz.com/2023/08/25/Clash/)
-* [**ClashX For WIndows使用教程**](https://www.openwayz.com/2023/08/28/ClashX/)
+* [**Clash For Windows使用教程**](https://www.openwayz.com/ClashForWindows/)
+* [**Clash For Android使用教程**](tps://www.openwayz.com/ClashForAndroid/)
+* [**ClashX For Mac使用教程**](https://www.openwayz.com/ClashXForMac/)
 
      
 ### Telegram
