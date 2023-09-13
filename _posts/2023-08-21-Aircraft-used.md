@@ -125,18 +125,18 @@ E套餐 | 300G/月|40￥/月
 
 5.2%折扣优惠码（下单时填入）：JMS9272283
 
-[官网注册地址，需要科学上网访问](https://justmysocks.net/members/aff.php?aff=28042)
+[官网注册地址，需要科学上网访问](https://justmysocks.net/members/aff.php?aff=28042&pid=13)
 
 **套餐:**
 
-1)Just My Socks IPLC HK 300**EARLY ACCESS：延迟低非常稳定,但很贵。                
+1)[Just My Socks IPLC HK 300**EARLY ACCESS](https://justmysocks.net/members/aff.php?aff=28042&pid=18)：延迟低非常稳定。                
 * 100G/月15$，3个设备。
 * 300G/月21$，3个设备。         
 * 1T/月59$，3个设备。              
                          
-2)Just My Socks HK CMI+NTT Plan 500 ：（这个方案季付比较合算）
+2)[Just My Socks HK CMI+NTT Plan 500](https://justmysocks.net/members/aff.php?aff=28042&pid=13)：（这个方案季付比较合算）
 * 8.99$/月，500GB/月，5个设备。 
-* 18.99$/季，500GB/月，5个设备。                       
+* 18.99$/季，500GB/月，5个设备。                           
 
 ### Telegram
 了解最新机场的信息，最新机场优惠折扣信息，相关新闻。
