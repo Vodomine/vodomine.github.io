@@ -55,6 +55,6 @@ ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对
 <img src="/images/posts/Clashforandroid/001.png" width="50%" alt="机场订阅]" /><img src="/images/posts/Clashforandroid/002.png" width="50%" alt="机场订阅]" /><img src="/images/posts/Clashforandroid/003.png" width="50%" alt="机场订阅]" /><img src="/images/posts/Clashforandroid/004.png" width="50%" alt="机场订阅]" />
   
 ### 3、代理模式
-当按钮呈蓝色并且显示"运行中"时表示 Clash 目前正在运行中，我们可以点击"代理"来进行节点的选择以及代理模式的更改，  
+当按钮呈蓝色并且显示"运行中"时表示 Clash 目前正在运行中，我们可以点击"代理"来进行节点的选择以及代理模式的更改，通常选择规则模式，只有在黑名单中的网站走机场，寻常网站直连，节省流量。  
 
 ## 至此，可以无阻碍使用Androids手机顺利上网了。   
