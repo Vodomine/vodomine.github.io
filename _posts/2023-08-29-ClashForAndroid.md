@@ -39,11 +39,9 @@ ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对
 
 1）主界面点击配置进入配置界面
 
-<img src="/images/posts/Clashforandroid/peizhi.png" width="50%" alt="Clashforandroid配置页面" />
+<img src="/images/posts/Clashforandroid/peizhi.png" width="50%" alt="Clashforandroid配置页面" /><img src="/images/posts/Clashforandroid/daoru.png" width="50%" alt="Clashforandroid导入" />
 
 2）点击软件右上角的 ➕ 键，添加配置文件，有两种添加配置文件的方式,通常选择从URL导入,即从订阅连接获取配置
-
-<img src="/images/posts/Clashforandroid/daoru.png" width="50%" alt="Clashforandroid导入" />
 
 ### 3、订阅地址获取 
 
