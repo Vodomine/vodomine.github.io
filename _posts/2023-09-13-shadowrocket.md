@@ -20,7 +20,8 @@ Shadowrocket搭配机场节点订阅链接使用，🔥[***值得购买的机场
 ### 换美区ID登录
 
 登录共享ID方法： 进入App Store 点击右上角您的头像- 拉倒最下方点击退出 ，登录共享id即可。
-**重要：**❗❗❗只能在App Store登录，不要在设置里登录iCloud。弹出Apple ID 安全页面后，选择—其他选项—不升级。即可正常登录。
+
+**重要：**❗❗❗只能在App Store登录，不要在设置里登录iCloud。弹出Apple ID 安全页面后，选择—其他选项—不升级。即可正常登录，登录后搜索shadowrocket即可下载。
 
 ### 带Shadowrocket美区ID
 
@@ -28,7 +29,7 @@ Shadowrocket搭配机场节点订阅链接使用，🔥[***值得购买的机场
 
 <div><br/><iframe src="https://u.fast6.xyz/share/group/appleid?access_token=5b838d74ce3b7fc2605768362a9d4e05" width="100%" height="270px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-下载完成，别忘记退出这个appleid，重新登录你自己的。       
+下载完成，❗❗❗别忘记退出这个appleid，重新登录你自己的。       
 
 
 ### Telegram
