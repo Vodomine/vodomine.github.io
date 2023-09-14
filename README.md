@@ -21,7 +21,7 @@
 
 开业7年，老机场分站，拥有香港，新加坡，日本，美国节点，速度都挺快，不限制客户端，目前个人正在用，8月中旬时候出了两天故障连不上，解决后补偿一个月订阅，老板还是挺良心的，我现在是C套餐年付。  
 
-[老猫云官网链接](https://lm.laomaoyun.me/#/register?code=LiENizAR)
+[老猫云官网链接](https://laomao.co/#/register?code=LiENizAR)
 
 **套餐：**
 
