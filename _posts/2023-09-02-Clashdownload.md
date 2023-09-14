@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clash等网络代理客户端下载
-categories: 客户端下载
+categories: 代理工具下载
 description: 代理软件客户端下载汇总
 keywords: 机场，Clash,免费,订阅，科学上网，梯子
 mermaid: false
