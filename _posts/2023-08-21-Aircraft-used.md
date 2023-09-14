@@ -19,7 +19,7 @@ topmost: false
 **注意！！：机场不是法外之地，万不能用于非法用途，或者发表不恰当言论，只能用于正常工作或者查资料，不然都可以找到你，有侥幸心理的人劝你打住**
 
 1. 试用过的几个汇总在这，下面有相对详细的信息    
-1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://lm.laomaoyun.me/#/register?code=LiENizAR)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
+1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://laomao.co/#/register?code=LiENizAR)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=6nsFRwoI )     
 2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=4UL2NXmU)、✔️[*泡泡狗(7.5/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
 3) 能注册免费试用的：✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=4UL2NXmU)，[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )    
 4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
@@ -36,7 +36,7 @@ topmost: false
 
 开业7年，老机场分站，拥有香港，新加坡，日本，美国节点，速度都挺快，不限制客户端，全部是IEPL专线，目前个人正在用，简单没太多套路，订阅套餐简单明了，各种流量倍率之类的都没有，网络延迟也很低，使用稳定8月中旬时候出了两天故障连不上，解决后补偿一个月订阅，老板还是挺良心的，是目前找到的经营年限最长的，现在是C套餐年付8折。  
 
-[老猫云官网链接](https://lm.laomaoyun.me/#/register?code=LiENizAR)
+[老猫云官网链接](https://laomao.co/#/register?code=LiENizAR)
 
  ![laomao](/images/posts/jichang/laomao.png)
 
