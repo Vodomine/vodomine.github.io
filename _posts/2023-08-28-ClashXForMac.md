@@ -2,7 +2,7 @@
 layout: post
 title: ClashX for Mac下载、使用教程
 categories: 代理设置教程
-description: 机场推荐,ClashX,ClashX pro使用设置教程
+description: ClashX,ClashX pro使用入门设置教程，参照此教程可快速实现apple平台的上网
 keywords: 机场,ClashX,免费,订阅
 mermaid: false
 sequence: false

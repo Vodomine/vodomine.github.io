@@ -2,7 +2,7 @@
 layout: post
 title: 按量付费不限时机场（2023/9更新）
 categories: 机场推荐
-description: 按流量付费不限时机场推荐，机场，翻墙，科学上网
+description: 按流量付费不限时机场推荐，适用于轻量用户，用的比较少，买一个流量套餐，需要的时候可以用一下查资料，看新闻，不浪费流量
 keywords: 机场推荐,Clash,免费,订阅，科学上网，梯子
 mermaid: false
 sequence: false

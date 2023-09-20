@@ -2,7 +2,7 @@
 layout: post
 title: Clash等网络代理客户端下载
 categories: 代理工具下载
-description: 代理软件客户端下载汇总
+description: Clash各平台代理软件客户端下载汇总，地址可以进行加速，方便各位使用
 keywords: 机场，Clash,免费,订阅，科学上网，梯子
 mermaid: false
 sequence: false
