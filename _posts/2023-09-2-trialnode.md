@@ -13,13 +13,14 @@ mindmap2: false
 topmost: true
 permalink: /:title/
 ---
-部分机场给新注册赠送一定流量，限时优惠体验，喜欢撸羊毛用户可以多注册一些机场免费使用，觉得用起来比较好的再进行续费使用，这篇博客收集了提供免费体验的机场，持续更新。
+部分机场给新注册赠送一定流量，限时优惠体验，喜欢撸羊毛用户可以多注册一些机场免费使用，觉得用起来比较好用的适合自己当前网络的再进行续费使用，这篇博客收集了提供免费体验的机场，持续更新。
 
 **注意！！：机场不是法外之地，万不能用于非法用途，或者发表不恰当言论，只能用于正常工作或者查资料，不然都可以找到你，不要有侥幸心理**
 
 ### 可试用机场列表
 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
+* [*NiceCloud(1G不限时）拥有很多国家节点*](https://nicecloud.co/reguser?aff=SaFZzRcI )
 * [*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )
 * [*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=Z4Y90y3y) 
 * [*SSRdog(3G一天)*]( https://dog.ssrdog111.com/#/register?code=O0dxApsX)  
