@@ -20,7 +20,7 @@ topmost: false
 
 1. 试用过的几个汇总在这，下面有相对详细的信息    
 1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://laomao.org/#/register?code=QiVFXFWX)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=gMK5qO9s)     
-2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)、✔️[*泡泡狗(8.8/月70G)*](https://www.paopao.dog/#/register?code=e9r22fNS )   
+2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)、✔️[*泡泡狗(8.8/月70G)*](https://iepl.io/#/register?code=e9r22fNS )   
 3) 能注册免费试用的：✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)，[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )    
 4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
 
@@ -68,8 +68,8 @@ E套餐 | 300G/月|40￥/月
 
 开业时间2022年，注册送5G流量一天试用，机场价格比较优惠，技术和运营也维护的很积极，他们家主要是BGP中转不是全专线机场，40个中转节点，5个专线节点，包月套餐其实性价比也很高，套餐流量给的挺多，我的备用机场，我现在在用的就是老猫云和它了，买了个150G不限时流量包做备用，没有哪个机场一直稳定，总得有个备用的避免哪天赶巧了要用却出不去。
 
-[TaiShan官网地址1](https://www.taishan.pro/#/register?code=Z4Y90y3y)  
-[TaiShan官网地址2](https://us.taishan.pro//#/register?code=Z4Y90y3y)
+[TaiShan官网地址1](https://us.taishan.pro/#/register?code=Z4Y90y3y)  
+[TaiShan官网地址2](https://www.taishan.pro//#/register?code=Z4Y90y3y)
 
 **套餐：**
 
@@ -84,14 +84,13 @@ E套餐 | 300G/月|40￥/月
 
 全IEPL专线中转SS机场，开业时间2022年，价格比较优惠，而且还有闲时流量倍率还有0.2，0.5的，不过正因为价格便宜，被攻击的也比较多，不过修的也挺快。       
 
-[泡泡狗官网](https://www.paopao.dog/#/register?code=e9r22fNS )
+[泡泡狗官网](https://iepl.io/#/register?code=e9r22fNS )
 
 **套餐:**
 
 * 8.8￥/月 70G流量   
 * 12.5￥/月 110G流量   
-* 20￥/月 210G流量   
-* 33￥/月 380G流量   
+* 20￥/月 210G流量    
 * 45￥/月 600G流量   
 * 30￥   150G流量不限时   
 * 60￥   300G流量不限时  
