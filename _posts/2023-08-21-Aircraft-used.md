@@ -21,7 +21,7 @@ topmost: false
 1. 试用过的几个汇总在这，下面有相对详细的信息    
 1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://laomao.org/#/register?code=QiVFXFWX)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=gMK5qO9s)     
 2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)、✔️[*泡泡狗(8.8/月70G)*](https://iepl.io/#/register?code=e9r22fNS )   
-3) 能注册免费试用的：✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )，✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)，[*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )    
+3) 能注册免费试用的：✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)，✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )      
 4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
 
 2. 客户端：（我用的是**Clash**,自动根据速度切换节点，很方便）  
@@ -95,20 +95,7 @@ E套餐 | 300G/月|40￥/月
 * 30￥   150G流量不限时   
 * 60￥   300G流量不限时  
 
-### 五、大讯云(10/月80G) 注册免费试用
-注册送两天10G流量，TG群赠送奈飞帐号。          
-
-[大讯云官网](https://daxun.info/#/register?code=VLAYLLaS )
-
-**套餐:**
-
-套餐 |  流量 | 价格 |客户端数目 
-:-:  | :-: | :-: | :-:
-初级会员 | 80G/月 | 10￥/月 | 2
-中级会员 | 150G/月 | 20￥/月 | 5
-高级会员 | 520G/月 | 25￥/月 | 10
-
-### 六、大哥云(19/月100G) 注册免费试用
+### 五、大哥云(19/月100G) 注册免费试用
 开业时间2020年，注册送1天10G流量，IPLC专线和隧道中转，原生IP节点多。         
 
 [大哥云官网](https://ab12y.com/#/register?code=6vTa3zI7 )
@@ -120,7 +107,7 @@ E套餐 | 300G/月|40￥/月
 套餐A | 100G/月 | 19.9￥/月 | 3
 套餐B | 150G/月 | 29.9￥/月 | 3
 
-### 七、Just my sock(5.8$/月500G) 搬瓦工官方机场 
+### 六、Just my sock(5.8$/月500G) 搬瓦工官方机场 
 
 搬瓦工官方机场，唯一我所知的正规大公司,非私人机场，安全无审计，开业时间2018年，注册需要科学上网，可以先注册上面的可免费试用的机场，然后使用临时订阅访问Justmysock官网注册，这机场优点主要是正规海外大公司，数据安全，没什么跑路风险，买的话月付有点贵，至少季付吧，不担心跑路，多买点还多优惠一些。
 
