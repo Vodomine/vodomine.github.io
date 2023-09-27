@@ -20,7 +20,7 @@ permalink: /:title/
 ### 可试用机场列表
 
 * [*TaiShan(5G一天)*](https://us.taishan.pro/#/register?code=Z4Y90y3y)
-* [*万城网络（1G一小时 全专线冷门地区节点多）*](https://shuttle.vcity-in.com/#/register?code=PNnRyq5s ) 
+* [*万城网络（1G一小时 全专线冷门地区节点多）*](https://portal.vc-on.com/#/register?code=PNnRyq5s ) 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
 * [*NiceCloud(1G不限时）拥有很多国家节点*](https://nicecloud.co/reguser?aff=SaFZzRcI )
 * [*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )
