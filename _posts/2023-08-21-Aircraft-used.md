@@ -22,7 +22,7 @@ topmost: false
 1) 求使用稳定地最好20块/月起的，用了✔️[*老猫云*](https://laomao.org/#/register?code=QiVFXFWX)，✔️[*可乐云*](https://user.colacloud.net/#/register?code=gMK5qO9s)     
 2) 想要便宜的，10块/月左右机场：✔️[*TaiShan(6/月64G)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)、✔️[*泡泡狗(8.8/月70G)*](https://iepl.io/#/register?code=e9r22fNS )   
 3) 能注册免费试用的：✔️[*TaiShan(5G一天)*](https://www.taishan.pro/#/register?code=Z4Y90y3y)，✔️[*大哥云（10G一天）*](https://ab12y.com/#/register?code=6vTa3zI7 )      
-4) 求极致稳定可靠，不太在乎价格的选[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。  
+4) 求极致稳定可靠，不太在乎价格的选我后面列出的几个[*Just my sock*](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司  
 
 2. 客户端：（我用的是**Clash**,自动根据速度切换节点，很方便）  
 1) Windows：Clash For Windows、V2rayN      
@@ -133,6 +133,23 @@ E套餐 | 300G/月|40￥/月
 2)[Just My Socks HK CMI+NTT Plan 500](https://justmysocks.net/members/aff.php?aff=28042&pid=13)：（这个方案季付比较合算）
 * 8.99$/月，500GB/月，5个设备。 
 * 18.99$/季，500GB/月，5个设备。                           
+
+### 七、Atomlantis(IPLC专线高端机场)  
+
+2023年新机场，全IPLC专线，同时在不断增加冷门节点，老板的喊出的目标是点亮全球，新开业，人少，目前体验绝佳，套餐就三种，适合预算比较充足，追求体验的用户,有兴趣的话建议先月付，毕竟开业还不到一年，安全第一。
+
+[机场测速及解锁内容可查看此链接](https://www.openwayz.com/Atomlantis/)
+
+[**Atomlantis机场官网链接**](https://atomlantis.cloud/#/register?code=bK09rayT)
+
+**套餐：**
+
+套餐 |  流量 | 价格 
+:-: |  :-: | :-: 
+Silver | 50G/月 |248￥/年
+Gold   | 200G/月 |37￥/月
+Diamond | 500G/月 |110￥/月
+
 
 ### Telegram
 了解最新机场的信息，最新机场优惠折扣信息，相关新闻。
