@@ -2,7 +2,7 @@
 layout: post
 title: Clash for Windows下载、使用教程
 categories: 代理设置教程
-description: Clash for windows使用设置教程,参照此篇教程可下载，并且快速应用订阅实现科学上网
+description: Clash for windows使用设置教程,参照此篇教程可下载，并且快速应用订阅实现上网
 keywords: 机场,Clash,免费,订阅
 mermaid: false
 sequence: false
@@ -12,7 +12,7 @@ mindmap: false
 mindmap2: false
 permalink: /:title/
 ---
-Clash是一个开源、免费的网络连接代理内核，其原理是通过预先定义的规则，对网络连接进行转发，用于科学上网（翻墙）。      
+Clash是一个开源、免费的网络连接代理内核，其原理是通过预先定义的规则，对网络连接进行转发，用于无限制上网。        
 
 最大得优点是可以根据节点延时**自动选择最快节点**，从而实现以最快的速度来访问不同的网站。  
 
