@@ -20,7 +20,7 @@ Tag:Clash,Shadowrocket。
 
 ## Windosws 机场客户端下载
 
-Windows 系统下推荐使用 **Clash for Windows** ，搭配机场梯子使用最为方便。
+Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为方便。
 
 **Shadowsocks：**支持SS订阅链接和二维码导入 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
