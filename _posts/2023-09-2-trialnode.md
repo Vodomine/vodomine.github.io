@@ -21,6 +21,7 @@ permalink: /:title/
 
 * [*TaiShan(5G一天，价格便宜，使用体验不错可付费)*](https://us.taishan.pro/#/register?code=Z4Y90y3y)
 * [*大哥云（10G一天，使用体验不错，可付费）*](https://ab12y.com/#/register?code=6vTa3zI7 )
+* [*青森云Cyanmori(1G一天)*](https://cccc.gg/auth/register?code=OrvAtN )
 * [*万城网络（1G一小时 全专线冷门地区节点多）*](https://portal.vc-on.com/#/register?code=PNnRyq5s ) 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
 * [*NiceCloud(1G不限时）拥有很多国家节点*](https://nicecloud.co/reguser?aff=SaFZzRcI )
