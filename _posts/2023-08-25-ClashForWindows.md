@@ -21,7 +21,7 @@ Clash是一个开源、免费的网络连接代理内核，其原理是通过预
 
 > **注意!**安装版或者解压缩版都不能有中文目录！   
 
-[Clash for Windows 0.20.39解压缩版代理下载](https://ghproxy.com/https://github.com/BoyceLig/Clash_Chinese_Patch/releases/download/0.20.39/Clash.for.Windows-0.20.39-win.7z)
+[Clash for Windows 0.20.39解压缩版代理下载](hhttps://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/Clash.for.Windows-0.20.39-win.7z)
 
 ### 2、配置使用教程 
 

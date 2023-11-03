@@ -24,7 +24,7 @@ Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为�
 
 **Shadowsocks：**支持SS订阅链接和二维码导入 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-**Clash for Windows 下载：**支持 Clash 订阅链接导入 [下载地址](https://ghproxy.com/https://github.com/BoyceLig/Clash_Chinese_Patch/releases/download/0.20.39/Clash.for.Windows-0.20.39-win.7z)
+**Clash for Windows 下载：**支持 Clash 订阅链接导入 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/Clash.for.Windows-0.20.39-win.7z)
 
 **V2ray Desktop 下载：**支持 Clash 订阅链接导入[下载地址](https://github.com/Dr-Incognito/V2Ray-Desktop/releases)
 
