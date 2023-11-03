@@ -36,7 +36,7 @@ Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为�
 
 **Shadowsocks：**支持SS订阅链接和二维码导入 [下载地址](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 
-**Clash for Android 下载**：支持 Clash 订阅链接导入 [下载地址](https://github.com/ccg2018/ClashA/releases)
+**Clash for Android 下载**：支持 Clash 订阅链接导入 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
 
 **SagerNet 下载：**支持 SS、V2ray、Trojan 订阅链接、二维码导入、Clash订阅链接导入 [下载地址](https://github.com/SagerNet/SagerNet/releases)
 

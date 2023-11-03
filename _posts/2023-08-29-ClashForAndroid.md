@@ -19,9 +19,9 @@ ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对
 
 ### 1、下载地址  
 
-[Clash for Android加速直接下载版本2.5.12](https://ghproxy.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.12/cfa-2.5.12-premium-armeabi-v7a-release.apk)
+[Clash for Android加速直接下载版本3.0.3](https://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
 
-[Clash for Android Github下载页面](https://github.com/Kr328/ClashForAndroid/releases)，请下载版本号标记为“*Latest*”的版本 
+[Clash for Android Github下载页面](https://github.com/Kr328/ClashForAndroid/releases)，请下载版本号标记为“*Latest*”的版本（11月目前作者已删库，请下载上面3.0.3版本） 
 
 关于下载页各版本说明：
 * armeabiv-v7a: 第7代及以上的 ARM 处理器。2011年5月以后的生产的大部分Android设备都使用它.（通常下载这个就可以）
