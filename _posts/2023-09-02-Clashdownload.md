@@ -22,9 +22,7 @@ Tag:Clash,Shadowrocket。
 
 Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为方便。
 
-**Shadowsocks：**支持SS订阅链接和二维码导入 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases)
-
-**Clash for Windows 下载：**支持 Clash 订阅链接导入 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/Clash.for.Windows-0.20.39-win.7z)
+**Clash for Windows 下载：**支持 Clash 订阅链接导入 [下载地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/Clash.for.Windows-0.20.39-win.7z)
 
 **V2ray Desktop 下载：**支持 Clash 订阅链接导入[下载地址](https://github.com/Dr-Incognito/V2Ray-Desktop/releases)
 
@@ -34,9 +32,7 @@ Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为�
 
 安卓系统上 **Clash for Android** 推荐使用。
 
-**Shadowsocks：**支持SS订阅链接和二维码导入 [下载地址](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-
-**Clash for Android 下载**：支持 Clash 订阅链接导入 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
+**Clash for Android 下载**：支持 Clash 订阅链接导入 [下载地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
 
 **SagerNet 下载：**支持 SS、V2ray、Trojan 订阅链接、二维码导入、Clash订阅链接导入 [下载地址](https://github.com/SagerNet/SagerNet/releases)
 
