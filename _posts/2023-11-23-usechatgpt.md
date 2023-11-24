@@ -9,7 +9,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
-topmost: true
+topmost: false
 permalink: /:title/
 ---
 ### 为什么要去用ChatGPT
