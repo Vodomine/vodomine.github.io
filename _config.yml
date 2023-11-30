@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://openwayz.com
+url: https://www.openwayz.com
 root: /
 date_format: "ordinal"
 title: 自由之路
