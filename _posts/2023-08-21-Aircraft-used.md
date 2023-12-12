@@ -73,7 +73,8 @@ E套餐 | 300G/月|40￥/月，400￥/年
 开业时间2022年，注册送5G流量一天试用，机场价格比较优惠，有包月套餐也有不限时的流量包套餐，技术和运营也维护的很积极，他们家主要是BGP中转不是全专线机场，40个中转节点，5个专线节点，包月套餐其实性价比也很高，套餐流量给的挺多，我的备用机场，买了个150G不限时流量包做备用，没有哪个机场一直稳定，总得有个备用的避免哪天赶巧了要用却出不去。
 
 [TaiShan官网地址1](https://us.taishan.pro/#/register?code=Z4Y90y3y)  
-[TaiShan官网地址2](https://www.taishan.pro//#/register?code=Z4Y90y3y)
+[TaiShan官网地址2](https://us.taishan2.pro//#/register?code=Z4Y90y3y)
+[TaiShan官网地址3](https://us.taishan1.pro//#/register?code=Z4Y90y3y)
 
 [Taishan测速及多媒体解锁情况可查看此链接](https://www.openwayz.com/Taishan/)
 
