@@ -22,8 +22,8 @@ permalink: /:title/
 开业时间2022年，注册送5G流量一天试用，机场价格比较优惠，技术和也维护的很积极，他们家是BGP中转加专线混合机场，40个中转节点，5个专线节点，难的的是这个机场开了流量不限时套餐，速度和体验比魔戒，雷霆好很多，包月套餐其实性价比也很高，我的备用机场，我现在在用的就是老猫云和它了，买了个150G不限时流量包做备用，没有哪个机场一直稳定，总得有个备用的避免哪天赶巧了要用却出不去。
 
 
-[TaiShan官网地址1](https://us.taishan.pro/#/register?code=Z4Y90y3y)  
-[TaiShan官网地址2](https://www.taishan.pro//#/register?code=Z4Y90y3y)
+[TaiShan官网地址1](https://jp.taishan.pro/#/register?code=Z4Y90y3y)  
+[TaiShan官网地址2](https://us.taishan2.pro//#/register?code=Z4Y90y3y)
 
 **套餐：**
 
