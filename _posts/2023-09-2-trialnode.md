@@ -19,7 +19,7 @@ permalink: /:title/
 
 ### 可试用机场列表
 
-* [*TaiShan(5G一天，价格便宜，使用体验不错可付费)*](https://us.taishan.pro/#/register?code=Z4Y90y3y)
+* [*TaiShan(5G一天，价格便宜，使用体验不错可付费)*](https://jp.taishan.pro/#/register?code=Z4Y90y3y)
 * [*大哥云（10G一天，使用体验不错，可付费）*](https://ab12y.com/#/register?code=6vTa3zI7 )
 * [*青森云Cyanmori(1G一天，带宽充足，送奈飞帐号，可付费)*](https://cccc.gg/auth/register?code=OrvAtN )
 * [*万城网络（1G一小时 全专线冷门地区节点多）*](https://portal.vc-on.com/#/register?code=PNnRyq5s ) 
