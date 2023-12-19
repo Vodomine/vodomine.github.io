@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clash等网络代理客户端下载
+title: Clash，Clash Verge等网络代理客户端下载
 categories: 代理工具下载
 description: Clash各平台代理软件客户端下载汇总，地址可以进行加速，方便各位使用
 keywords: 机场，Clash,免费,订阅
@@ -23,6 +23,8 @@ Tag:Clash,Shadowrocket。
 Windows 系统下推荐使用 **Clash for Windows** ，搭配机场使用最为方便。
 
 **Clash for Windows 下载：**支持 Clash 订阅链接导入 [下载地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/Clash.for.Windows-0.20.39-win.7z)
+
+**Clash Verge 下载：**支持 Clash 订阅链接导入 [下载地址](https://mirror.ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.4.3/Clash.Verge_1.4.3_x64-setup.exe)
 
 **V2ray Desktop 下载：**支持 Clash 订阅链接导入[下载地址](https://github.com/Dr-Incognito/V2Ray-Desktop/releases)
 
