@@ -10,7 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
-topmost: true
+topmost: false
 permalink: /:title/
 ---
 部分机场给新注册赠送一定流量，限时优惠体验，喜欢撸羊毛用户可以多注册一些机场免费使用，觉得用起来比较好用的适合自己当前网络的再进行续费使用，这篇博客收集了提供免费体验的机场，持续更新。
@@ -20,8 +20,9 @@ permalink: /:title/
 ### 可试用机场列表
 
 * [*TaiShan(5G一天，价格便宜，使用体验不错可付费)*](https://jp.taishan.pro/#/register?code=Z4Y90y3y)
+* [*OTE（1G一天2小时，使用体验不错，可付费,有一键连接客户端，省心易用）*](https://oteacc.org/#/register?code=NJ0rQD4l )
 * [*大哥云（10G一天，使用体验不错，可付费）*](https://ab12y.com/#/register?code=6vTa3zI7 )
-* [*青森云Cyanmori(1G一天，带宽充足，送奈飞帐号，可付费)*](https://cccc.gg/auth/register?code=OrvAtN )
+* [*青森云Cyanmori(1G6小时，带宽充足，送奈飞帐号，可付费)*](https://cccc.gg/auth/register?code=OrvAtN )
 * [*万城网络（1G一小时 全专线冷门地区节点多）*](https://portal.vc-on.com/#/register?code=PNnRyq5s ) 
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
 * [*NiceCloud(1G两小时）*](https://nicecloud.co/reguser?aff=SaFZzRcI )
