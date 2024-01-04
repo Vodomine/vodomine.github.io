@@ -38,6 +38,8 @@ topmost: false
 
 [OTE Accelerator官网地址](https://uso.oteacc.org/passport.html#/register?code=NJ0rQD4l)  
 
+[OTE机场节点延迟及多媒体解锁情况可查看此链接](https://www.openwayz.com/OTE/)
+
 新用户9折优惠券(下单页面填入)：90off
 
 **套餐：**
