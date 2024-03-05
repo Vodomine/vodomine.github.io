@@ -60,9 +60,7 @@ permalink: /:title/
 
 开业时间2022年，机场价格比较优惠，有包月套餐也有不限时的流量包套餐，技术和运营也维护的比较积极，50多个中转节点，但目前使用的用户已经比较多了。
 
-[TaiShan官网地址1](https://jp.taishan.pro/#/register?code=Z4Y90y3y)  
-[TaiShan官网地址2](https://us.taishan2.pro//#/register?code=Z4Y90y3y)
-[TaiShan官网地址3](https://us.taishan1.pro//#/register?code=Z4Y90y3y)
+[TaiShan官网地址1](https://de.taishan.pro/#/register?code=SgMJVmzl)  
 
 
 **套餐：**
