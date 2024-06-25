@@ -27,7 +27,7 @@ permalink: /:title/
 * [*大讯云（10G两天）*](https://daxun.info/#/register?code=VLAYLLaS )
 * [*NiceCloud(1G两小时）*](https://nicecloud.co/reguser?aff=SaFZzRcI )
 * [*SSRdog(3G一天)*]( https://dog.ssrdog111.com/#/register?code=O0dxApsX)  
-* [*奈云(5G三天)*]( https://naiunny.store/#/register?code=KfeBrj3u)  
+* [*奈云(5G三天)*]( https://www.naiun1.top/#/register?code=KfeBrj3u)  
 * [*极光加速(10G两天)*]( https://jgjs02.com/#/register?code=WRLKZyUS)    
 
 **可付费购买可稳定使用的机场，可参考我的另一篇总结，**🔥[*自用机场记录*](https://www.openwayz.com/jichang/)  
