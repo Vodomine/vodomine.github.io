@@ -28,7 +28,7 @@ permalink: /:title/
 
 ### ChatGPT的使用
 
-按照上面的介绍要使用ChatGPT的成本就是一次性的买号支出，13￥，后期使用代理翻墙大概6~10块钱，成本还是很低的，目前ChatGPT有网页版本跟APP。最快开始用ChatGPT的方式，就是前往ChatGPT的网站。你可以打开你用的浏览器，然后输入这个网址 https://chat.openai.com/。
+按照上面的介绍要使用ChatGPT的成本就是一次性的买号支出，13￥，后期使用代理科学大概6~10块钱，成本还是很低的，目前ChatGPT有网页版本跟APP。最快开始用ChatGPT的方式，就是前往ChatGPT的网站。你可以打开你用的浏览器，然后输入这个网址 https://chat.openai.com/。
 
 ChatGPT针对许多地区机房IP做了相应的屏蔽，使用的时候也是建议尽量使用欧美等节点，会更稳定一点。
 

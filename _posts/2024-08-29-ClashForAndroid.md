@@ -12,7 +12,7 @@ mindmap: false
 mindmap2: false
 permalink: /:title/
 ---
-ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对网络连接进行转发，用于上外网。      
+ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对网络连接进行转发，用于登录google等网站学习，查资料以及做外贸等商业活动。     
 
 最大得优点是可以根据节点延时**自动选择最快节点**，从而实现以最快的速度来访问不同的网站。  
 
