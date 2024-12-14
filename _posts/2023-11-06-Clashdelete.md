@@ -33,7 +33,7 @@ permalink: /:title/
 
 ### Clash文件备份
 
-Clash系列备份：[需翻墙访问https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag](https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag)
+Clash系列备份：[需科学访问https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag](https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag)
 包括：
 * Clash for Windows 0.20.29版本
 * Clash for Android 2.5.12和3.0.3版本
@@ -69,9 +69,3 @@ Clash系列备份：[需翻墙访问https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJ
 
 都是个人实际体验用过的6 7家服务商，包含专线及大带宽中转机场，价格从10￥到20￥，包月套餐及不限时流量套餐都有，可提供很好的使用体验。
 
-### Telegram
-了解最新机场的信息，最新机场优惠折扣信息，相关新闻。
-
-欢迎关注我的Telegram频道。
-
-🔥[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)

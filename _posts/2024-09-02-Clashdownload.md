@@ -67,10 +67,3 @@ iOS 系统最推荐的科学上网是 **Shadowrocket**，俗称「小火箭」�
 **Surge for iOS（$49.99）**：支持 Surge 订阅链接导入 [下载地址](https://apps.apple.com/us/app/surge-4/id1442620678)
 
 注意：需要**非中国区Apple ID**才能下载VPN软件。一般常用美区 Apple ID 账号，可直接从第三方渠道购买包含上述软件的账号。
-
-### Telegram
-了解最新机场的信息，最新机场优惠折扣信息，免费机场分享，相关新闻。
-
-欢迎关注我的Telegram。
-
-[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)

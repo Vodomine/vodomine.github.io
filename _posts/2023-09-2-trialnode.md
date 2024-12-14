@@ -46,11 +46,3 @@ permalink: /:title/
 * [**Clash For Windows使用教程**](https://www.openwayz.com/ClashForWindows/)
 * [**Clash For Android使用教程**](tps://www.openwayz.com/ClashForAndroid/)
 * [**ClashX For Mac使用教程**](https://www.openwayz.com/ClashXForMac/)
-
-     
-### Telegram
-了解最新机场的信息，最新机场优惠折扣信息，免费机场分享，相关新闻。
-
-欢迎关注我的Telegram频道。
-
-🔥[*点击链接关注自由之路Freeway频道*](https://t.me/openwayz)
