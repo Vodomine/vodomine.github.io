@@ -15,7 +15,7 @@ permalink: /:title/
 ---
 2024/12/13日突然发现我的博客在Bing搜索引擎上的流量锐减，几乎跌到了零，于是我使用bing搜索我的网站，发现没有任何文章能搜到，搜索site:www.openwayz.com提示没有与此相关的结果，似乎整个网站被bing拉黑除名了，但是在其他搜索引擎上的索引确实正常的，可以确定是单方面的可能是触发了bing的什么机制导致了这种问题。
 
-![noindex](/images/posts/bing/noindex.PNG)
+![noindex](/images/posts/bing/noindex.png)
 
 ### 问题出在哪里呢
 
@@ -25,19 +25,19 @@ permalink: /:title/
 
 从网站的搜索性能中能发现点击量和印象锐减至0。
 
-![click](/images/posts/bing/click.PNG)
+![click](/images/posts/bing/click.png)
 
 ### 查看网址索引量
 
 发现数据是正常的，以往发布的文章还是索引的状态，看下图绿色的横线，也就是说不是把我所有索引的URL取消了，索引的网址都还在。
 
-![crawl](/images/posts/bing/crawl.PNG)
+![crawl](/images/posts/bing/crawl.png)
 
 ### 查看Recommendations
 
 这里是Bing给网站的一些建议，我吃惊的发现这里有大量的错误，大多是跟SEO相关的,竟然有如此之多的错误，进一步去排查网站的代码，发现是因为我用的SEO插件冲突，产生了两份seo内容，无论是不是因为这个问题导致的，先行修复这个问题，然后进行实时URL检查，确认修复该问题。
 
-![Recommendations](/images/posts/bing/Recommendations.PNG)
+![Recommendations](/images/posts/bing/Recommendations.png)
 
 ### 后续工作
 
