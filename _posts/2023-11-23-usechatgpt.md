@@ -2,7 +2,7 @@
 layout: post
 title: 如何才能用上ChatGPT
 categories: ChatGPT
-description: 如何能用上ChatGPT，注册chatGPT，AI
+description: 如何能用上ChatGPT，注册chatGPT的注意事项，应该怎么注册，需要海外手机号，邮箱，机场工具
 mermaid: false
 sequence: false
 flow: false

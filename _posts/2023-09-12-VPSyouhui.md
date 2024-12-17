@@ -2,7 +2,7 @@
 layout: post
 title: 搬瓦工VPS传家宝套餐罕见补货（2023/9/12）
 categories: VPS
-description: 搬瓦工VPS传家宝套餐罕见补货
+description: 搬瓦工VPS传家宝套餐罕见补货，搬瓦工提供国内优化线路，国内联通移动电信的访问速度都很快
 keywords: VPS，搬瓦工
 mermaid: false
 sequence: false
