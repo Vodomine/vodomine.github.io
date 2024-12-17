@@ -2,7 +2,7 @@
 layout: post
 title: 自用过平价稳定值得付费机场推荐（2024/12更新）
 categories: 机场推荐
-description: 自用可靠机场记录推荐
+description: 自用可靠机场推荐，大部分用户搜到的机场推荐里面罗列了十几个机场，很多都是纯粹打广告的，正常用户哪有人能用到那么多机场，自用的好用的也就那么一两个吧，本篇文章列出的都是性价比高，比较稳定好用的
 keywords: 机场推荐,Clash订阅
 mermaid: false
 sequence: false
