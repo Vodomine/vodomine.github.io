@@ -29,14 +29,14 @@ ClashX 软件相关介绍及说明可参考作者github主页：*https://github.
 
 首先需要注册一个机场，选择机场可以参考我的另一篇笔记[*自用过的机场记录推荐*](https://vodomine.github.io/2023/08/21/Aircraft-used/)，注册机场后进入主页，如下图操作，其他机场界面可能不一致，但基本大同小异，其中都有一键订阅部分,选择导入到ClashX    
 
-![](/images/posts/ClashX/001.png) 
-![](/images/posts/ClashX/002.png)
-![](/images/posts/ClashX/003.png)
+![复制订阅](/images/posts/ClashX/001.png) 
+![导入订阅](/images/posts/ClashX/002.png)
+![确认导入](/images/posts/ClashX/003.png)
 
 ⚠️请确保上面的导入成功，若失败请手动复制订阅地址后导入，**前往菜单项的配置 – 托管配置 – 设置地址**
 
-![](/images/posts/ClashX/005.png)
-![](/images/posts/ClashX/006.png)
+![设置配置地址](/images/posts/ClashX/005.png)
+![确认配置地址](/images/posts/ClashX/006.png)
 
 ### 3\. 启动 ClashX For Mac连接
 
@@ -49,7 +49,7 @@ ClashX 软件相关介绍及说明可参考作者github主页：*https://github.
 规则判断：代表按预先设定的规则来访问网络，无法打开网站请切换全局。  
 直连连接：代表不走代理，直接使用自己本地网络访问网站。
 
-![](/images/posts/ClashX/004.png)
+![设置系统代理](/images/posts/ClashX/004.png)
 
 
 ## 至此，可以无阻碍顺利上网了。   
