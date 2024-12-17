@@ -3,7 +3,7 @@ layout: post
 title: 小火箭Shadowrocket美区共享帐号免费下载
 categories: 代理工具下载
 description: 小火箭Shadowrocket美区共享帐号，使用此账号可以免费下载小火箭
-keywords: Shadowrocket,美区共享账号，机场推荐,Clash,免费,订阅
+keywords: Shadowrocket,美区共享账号
 sequence: false
 flow: false
 mathjax: false

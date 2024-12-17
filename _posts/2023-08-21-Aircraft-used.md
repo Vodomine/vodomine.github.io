@@ -3,7 +3,7 @@ layout: post
 title: 自用过平价稳定值得付费机场推荐（2024/12更新）
 categories: 机场推荐
 description: 自用可靠机场记录推荐
-keywords: 机场推荐,Clash,免费,订阅
+keywords: 机场推荐,Clash订阅
 mermaid: false
 sequence: false
 flow: false

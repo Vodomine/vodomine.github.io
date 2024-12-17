@@ -3,7 +3,7 @@ layout: post
 title: Clash for Windows下载、使用教程
 categories: 代理设置教程
 description: Clash for windows使用设置教程,参照此篇教程可下载，并且快速应用订阅实现上网
-keywords: 机场,Clash,免费,订阅
+keywords: 机场,Clash
 mermaid: false
 sequence: false
 flow: false

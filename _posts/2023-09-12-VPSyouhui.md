@@ -3,7 +3,7 @@ layout: post
 title: 搬瓦工VPS传家宝套餐罕见补货（2023/9/12）
 categories: VPS
 description: 搬瓦工VPS传家宝套餐罕见补货
-keywords: VPS，机场推荐,Clash,免费,订阅
+keywords: VPS，搬瓦工
 mermaid: false
 sequence: false
 flow: false
