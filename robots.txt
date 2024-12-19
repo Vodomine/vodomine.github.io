@@ -1,4 +1,4 @@
-Sitemap: https://openwayz.com/sitemap.xml
+Sitemap: https://www.openwayz.com/sitemap.xml
 
 User-agent: *
 Disallow: /assets/vendor/octicons/
