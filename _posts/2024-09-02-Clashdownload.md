@@ -16,7 +16,7 @@ permalink: /:title/
 Windows、Android、macOS、iOS 系统客户端下载地址汇总，🔥[***可用的机场可点这里看看***](https://www.openwayz.com/jichang/)
 Tag:Clash,Shadowrocket。
 
-选择最新的版本下载就可以，如果下载速度慢，在文件下载地址前面加上**https://ghproxy.com**这串字符，就可以进行代理加速。
+选择最新的版本下载就可以，如果下载速度慢，在文件下载地址前面加上**https://mirror.ghproxy.com**这串字符，就可以进行代理加速。直连访问比较慢，有的可能也访问不了，推荐用代理访问
 
 ## Windosws 机场客户端下载
 

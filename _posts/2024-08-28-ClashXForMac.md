@@ -12,7 +12,7 @@ mindmap: false
 mindmap2: false
 permalink: /:title/
 ---
-ClashX For Mac下载、使用教程，适合Mac系统，当然用户还可以使用clashx pro，操作也都基本相同。
+ClashX For Mac下载、使用教程，适合Mac系统，当然用户还可以使用clashx pro，操作也都基本相同，使用很简单。
 
 ### 1\. 下载ClashX
 

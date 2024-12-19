@@ -37,4 +37,4 @@ permalink: /:title/
 
 [购买链接](https://bandwagonhost.com/aff.php?aff=72669&pid=94) 
 
-可以用来自建节点，就算后面转手卖出也不亏钱            
+可以用来自建节点，就算后面转手卖出也不亏钱，有需要的可以去论坛收。           
