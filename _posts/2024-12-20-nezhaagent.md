@@ -55,7 +55,7 @@ nezha-agent.service这文件中有一行
 
 --tls 启用 SSL/TLS 加密（使用 nginx 反向代理 Agent 的 grpc 连接，并且 nginx 开启 SSL/TLS 时，需要启用该项配置）
 
-修改完后执行命令Ctrl+O，Ctrl+O，保存，退出nano编辑器。
+修改完后执行命令Ctrl+O，Ctrl+X，保存，退出nano编辑器。
 
 然后执行命令
 
