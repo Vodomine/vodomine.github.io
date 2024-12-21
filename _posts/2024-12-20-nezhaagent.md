@@ -31,6 +31,7 @@ permalink: /:title/
 编辑/etc/systemd/system/nezha-agent.service，
 
 nezha-agent.service这文件中有一行
+
 ```ExecStart=/opt/nezha/agent/nezha-agent -s xxx.xxx.xxx:5555 -p xxxxxxxxxxx```
 在 ExecStart= 这一行的末尾加上
 
@@ -40,17 +41,23 @@ nezha-agent.service这文件中有一行
 
 还可以加入其他配置项，如下：
 --report-delay 系统信息上报的间隔，默认为 1 秒，可以设置为 3 来进一步降低 agent 端系统资源占用（配置区间 1-4）
---skip-conn 不监控连接数，机场/连接密集型机器推荐设置，不然比较占 CPU(shirou/gopsutil/issues#220)
---skip-procs 不监控进程数，也可以降低 agent 占用
---disable-auto-update 禁止 自动更新 Agent（安全特性）
---disable-force-update 禁止 强制更新 Agent（安全特性）
---disable-command-execute 禁止在 Agent 机器上执行定时任务、打开在线终端（安全特性）
---tls 启用 SSL/TLS 加密（使用 nginx 反向代理 Agent 的 grpc 连接，并且 nginx 开启 SSL/TLS 时，需要启用该项配置）
 
+--skip-conn 不监控连接数，机场/连接密集型机器推荐设置，不然比较占 CPU(shirou/gopsutil/issues#220)
+
+--skip-procs 不监控进程数，也可以降低 agent 占用
+
+--disable-auto-update 禁止 自动更新 Agent（安全特性）
+
+--disable-force-update 禁止 强制更新 Agent（安全特性）
+
+--disable-command-execute 禁止在 Agent 机器上执行定时任务、打开在线终端（安全特性）
+
+--tls 启用 SSL/TLS 加密（使用 nginx 反向代理 Agent 的 grpc 连接，并且 nginx 开启 SSL/TLS 时，需要启用该项配置）
 
 修改完后执行命令Ctrl+O，Ctrl+O，保存，退出nano编辑器。
 
 然后执行命令
+
 ```systemctl daemon-reload && systemctl restart nezha-agent```
 
 就可以让配置生效了，后面即使VPS重启也可以保持修改后的配置生效。
