@@ -2,7 +2,7 @@
 layout: post
 title: 哪吒监控如何修改agent的配置，不监控进程数和连接数，禁止自动升级
 categories: 经验分享
-description: 哪吒监控迁移面板并且修改agent的配置，不监控进程数和连接数，禁止自动升级
+description: 哪吒监控迁移面板并且修改agent的配置，不监控进程数和连接数，禁止自动升级,自定义监控设置项，更好的定制监控需求
 keywords: 哪吒监控
 mermaid: false
 sequence: false
@@ -33,6 +33,7 @@ permalink: /:title/
 nezha-agent.service这文件中有一行
 
 ```ExecStart=/opt/nezha/agent/nezha-agent -s xxx.xxx.xxx:5555 -p xxxxxxxxxxx```
+
 在 ExecStart= 这一行的末尾加上
 
 ```ExecStart=/opt/nezha/agent/nezha-agent -s xxx.xxx.xxx:5555 -p xxxxxxxxxxx --skip-conn --skip-procs --disable-auto-update```
