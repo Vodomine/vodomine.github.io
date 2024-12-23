@@ -1,6 +1,5 @@
 Sitemap: https://www.openwayz.com/sitemap.xml
 
 User-agent: *
-Disallow: /assets/vendor/octicons/
-Disallow: /googled1807aaefc1b602f.html
+Allow: /
 
