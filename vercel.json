@@ -16,6 +16,11 @@
       "permanent": true
     },
     {
+      "source": "/VPSyouhui(/)?",
+      "destination": "/vpsyouhui/",
+      "permanent": true
+    },
+    {
       "source": "/Clashdownload",
       "destination": "/clashdownload/",
       "permanent": true
