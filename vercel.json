@@ -21,6 +21,16 @@
       "permanent": true
     },
     {
+      "source": "/ClashForWindows",
+      "destination": "/clashforwindows/",
+      "permanent": true
+    },
+    {
+      "source": "/ClashForWindows/",
+      "destination": "/clashforwindows/",
+      "permanent": true
+    },
+    {
       "source": "/ClashXForMac",
       "destination": "/clashxformac/",
       "permanent": true
@@ -31,6 +41,16 @@
       "permanent": true
     },
     {
+      "source": "/BGPIPLC",
+      "destination": "/bgpiplc/",
+      "permanent": true
+    },
+    {
+      "source": "/BGPIPLC/",
+      "destination": "/bgpiplc/",
+      "permanent": true
+    },
+    {
       "source": "/NiceDuck",
       "destination": "/niceduck/",
       "permanent": true
@@ -38,6 +58,16 @@
     {
       "source": "/NiceDuck/",
       "destination": "/niceduck/",
+      "permanent": true
+    },
+    {
+      "source": "/NaiU",
+      "destination": "/naiu/",
+      "permanent": true
+    },
+    {
+      "source": "/NaiU/",
+      "destination": "/naiu/",
       "permanent": true
     },
     {
