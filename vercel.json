@@ -11,6 +11,11 @@
       "permanent": true
     },
     {
+      "source": "/Atomlantis(/)?",
+      "destination": "/atomlantis/",
+      "permanent": true
+    },
+    {
       "source": "/Clashdownload",
       "destination": "/clashdownload/",
       "permanent": true
