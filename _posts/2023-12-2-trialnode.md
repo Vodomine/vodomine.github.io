@@ -43,6 +43,6 @@ permalink: /:title/
 3) IOS：Shadowrocket(小火箭)    
 4) 安卓：ClashforAndroid(CFA) 
 
-* [**Clash For Windows使用教程**](https://www.openwayz.com/ClashForWindows/)
-* [**Clash For Android使用教程**](tps://www.openwayz.com/ClashForAndroid/)
-* [**ClashX For Mac使用教程**](https://www.openwayz.com/ClashXForMac/)
+* [**Clash For Windows使用教程**](https://www.openwayz.com/clashforwindows/)
+* [**Clash For Android使用教程**](https://www.openwayz.com/clashforandroid/)
+* [**ClashX For Mac使用教程**](https://www.openwayz.com/clashxformac/)
