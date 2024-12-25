@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    {
+      "source": "/Atomlantis",
+      "destination": "/atomlantis/",
+      "permanent": true
+    },
+    {
+      "source": "/Clashdownload",
+      "destination": "/clashdownload/",
+      "permanent": true
+    },
+    {
+      "source": "/ClashXForMac",
+      "destination": "/clashxformac/",
+      "permanent": true
+    },
+    {
+      "source": "/NiceDuck",
+      "destination": "/niceduck/",
+      "permanent": true
+    },
+    {
+      "source": "/OTE",
+      "destination": "/ote/",
+      "permanent": true
+    },
+    {
+      "source": "/Telegram",
+      "destination": "/telegram/",
+      "permanent": true
+    }
+  ]
+}
