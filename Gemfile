@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'nokogiri', '~> 1.12.5', platforms: :ruby
+gem 'jekyll-feed', '~> 0.16'
 gem 'ffi', '~> 1.17.0', platforms: :ruby
 gem 'github-pages', group: :jekyll_plugins
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
