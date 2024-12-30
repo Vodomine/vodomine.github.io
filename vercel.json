@@ -21,6 +21,21 @@
       "permanent": true
     },
     {
+      "source": "/Clashdelete(/)?",
+      "destination": "/clashdelete/",
+      "permanent": true
+    },
+    {
+      "source": "/ClashForAndroid(/)?",
+      "destination": "/clashforandroid/",
+      "permanent": true
+    },
+    {
+      "source": "/Taishan(/)?",
+      "destination": "/taishan/",
+      "permanent": true
+    },
+    {
       "source": "/Clashdownload",
       "destination": "/clashdownload/",
       "permanent": true
@@ -61,22 +76,12 @@
       "permanent": true
     },
     {
-      "source": "/NiceDuck",
+      "source": "/NiceDuck(/)?",
       "destination": "/niceduck/",
       "permanent": true
     },
     {
-      "source": "/NiceDuck/",
-      "destination": "/niceduck/",
-      "permanent": true
-    },
-    {
-      "source": "/NaiU",
-      "destination": "/naiu/",
-      "permanent": true
-    },
-    {
-      "source": "/NaiU/",
+      "source": "/NaiU(/)?",
       "destination": "/naiu/",
       "permanent": true
     },
