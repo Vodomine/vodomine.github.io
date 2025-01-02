@@ -138,6 +138,9 @@ collections:
     fragments:
         output: true
         permalink: /fragment/:path/
+# 禁用 Open Graph 内容
+seo:
+  og: false
 
 # ---------------- #
 #      Comments    #
