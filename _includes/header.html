@@ -16,6 +16,8 @@
     {% if page.url contains '/page' %}
     <meta name="robots" content="noindex, follow">
     {% endif %}
+
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
  
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
