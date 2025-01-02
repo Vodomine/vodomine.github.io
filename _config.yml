@@ -128,7 +128,7 @@ plugins:
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
-    - jekyll-seo-tag
+#    - jekyll-seo-tag
     - jemoji
 #     - jekyll-mentions
 collections:
@@ -138,9 +138,6 @@ collections:
     fragments:
         output: true
         permalink: /fragment/:path/
-# 禁用 Open Graph 内容
-seo:
-  og: false
 
 # ---------------- #
 #      Comments    #
