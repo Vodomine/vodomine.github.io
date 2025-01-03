@@ -54,6 +54,26 @@
       "source": "/Telegram(/)?",
       "destination": "/telegram/",
       "permanent": true
+    },
+    {
+      "source": "/usechatgpt(/)?",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/naiu(/)?",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/taishan(/)?",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/atomlantis(/)?",
+      "destination": "/404",
+      "permanent": false
     }
   ]
 }
