@@ -1,23 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/OTE",
-      "destination": "/ote/",
-      "permanent": true
-    },
-    {
-      "source": "/OTE/",
+      "source": "/OTE(/)?",
       "destination": "/ote/",
       "permanent": true
     },
     {
       "source": "/2023/08/21/Aircraft-used(/)?",
       "destination": "/2023/08/21/aircraft-used/",
-      "permanent": true
-    },
-    {
-      "source": "/Atomlantis(/)?",
-      "destination": "/atomlantis/",
       "permanent": true
     },
     {
@@ -36,47 +26,22 @@
       "permanent": true
     },
     {
-      "source": "/Taishan(/)?",
-      "destination": "/taishan/",
-      "permanent": true
-    },
-    {
-      "source": "/Clashdownload",
+      "source": "/Clashdownload(/)?",
       "destination": "/clashdownload/",
       "permanent": true
     },
     {
-      "source": "/Clashdownload/",
-      "destination": "/clashdownload/",
-      "permanent": true
-    },
-    {
-      "source": "/ClashForWindows",
+      "source": "/ClashForWindows(/)?",
       "destination": "/clashforwindows/",
       "permanent": true
     },
     {
-      "source": "/ClashForWindows/",
-      "destination": "/clashforwindows/",
-      "permanent": true
-    },
-    {
-      "source": "/ClashXForMac",
+      "source": "/ClashXForMac(/)?",
       "destination": "/clashxformac/",
       "permanent": true
     },
     {
-      "source": "/ClashXForMac/",
-      "destination": "/clashxformac/",
-      "permanent": true
-    },
-    {
-      "source": "/BGPIPLC",
-      "destination": "/bgpiplc/",
-      "permanent": true
-    },
-    {
-      "source": "/BGPIPLC/",
+      "source": "/BGPIPLC(/)?",
       "destination": "/bgpiplc/",
       "permanent": true
     },
@@ -86,19 +51,27 @@
       "permanent": true
     },
     {
-      "source": "/NaiU(/)?",
-      "destination": "/naiu/",
-      "permanent": true
-    },
-    {
-      "source": "/Telegram",
+      "source": "/Telegram(/)?",
       "destination": "/telegram/",
       "permanent": true
+    }
+  ],
+  "routes": [
+    {
+      "src": "/usechatgpt(/)?",
+      "status": 410
     },
     {
-      "source": "/Telegram/",
-      "destination": "/telegram/",
-      "permanent": true
+      "src": "/naiu(/)?",
+      "status": 410
+    },
+    {
+      "src": "/taishan(/)?",
+      "status": 410
+    },
+    {
+      "src": "/atomlantis(/)?",
+      "status": 410
     }
   ]
 }
