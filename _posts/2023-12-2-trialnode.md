@@ -3,7 +3,7 @@ layout: post
 title: 注册可免费试用的机场（2023/10更新）
 categories: 机场推荐
 description: 分享注册以后可以免费试用的机场，基本都是免费试用一两天，可以让大家能够临时用一下应应急，看看外面的信息
-keywords: 机场推荐,免费
+keywords: 免费机场推荐
 mermaid: false
 sequence: false
 flow: false

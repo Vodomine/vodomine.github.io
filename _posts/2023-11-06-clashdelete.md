@@ -3,7 +3,7 @@ layout: post
 title: Clash删库始末及知识普及
 categories: 机场观察
 description: Clash删库的来龙去脉，及替代软件，Clash删库的影响
-keywords: Clash删库，Clash for windows
+keywords: Clash删库
 mermaid: false
 sequence: false
 flow: false

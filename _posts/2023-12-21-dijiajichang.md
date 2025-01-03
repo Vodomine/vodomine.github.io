@@ -3,7 +3,7 @@ layout: post
 title: 5￥到10￥每月左右的性价比可靠机场推荐（2024/12更新）
 categories: 机场推荐
 description: 目前存在的机场众多，质量良莠不齐，推荐几个5￥到10￥每月左右的性价比可靠机场给大家选择
-keywords: 机场推荐,Clash
+keywords: 便宜机场推荐
 mermaid: false
 sequence: false
 flow: false

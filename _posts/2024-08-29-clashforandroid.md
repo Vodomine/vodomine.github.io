@@ -3,7 +3,7 @@ layout: post
 title: Clash for Android下载、使用教程
 categories: 代理设置教程
 description: ClashforAndroid使用入门设置教程，根据此教程，可以快速把Clash用起来
-keywords: 机场,Clash
+keywords: ClashforAndroid
 mermaid: false
 sequence: false
 flow: false

@@ -3,7 +3,7 @@ layout: post
 title: 提供按量付费不限时套餐机场（2024/01更新）
 categories: 机场推荐
 description: 按流量付费不限时机场推荐，适用于轻量用户，用的比较少，买一个流量套餐，需要的时候可以用一下查资料，看新闻，不浪费流量
-keywords: 机场推荐,Clash订阅
+keywords: 机场推荐
 mermaid: false
 sequence: false
 flow: false
