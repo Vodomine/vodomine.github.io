@@ -2,7 +2,7 @@
 layout: post
 title: ClashX for Mac下载、使用教程
 categories: 代理设置教程
-description: ClashX,ClashX pro使用入门设置教程，参照此教程可快速实现apple平台的上网
+description: ClashX For Mac类比clash for windows,它是苹果电脑要用的代理软件，作用都一样，用户还可以使用clashx pro，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单
 keywords: ClashX
 mermaid: false
 sequence: false
@@ -12,14 +12,13 @@ mindmap: false
 mindmap2: false
 permalink: /:title/
 ---
-ClashX For Mac下载、使用教程，适合Mac系统，当然用户还可以使用clashx pro，操作也都基本相同，使用很简单。
+ClashX For Mac类比clash for windows,它是苹果电脑要用的代理软件，作用都一样，用户还可以使用clashx pro，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单。
 
 ### 1\. 下载ClashX
 
-ClashX 仅支持Mac平台! 
-ClashX 软件相关介绍及说明可参考作者github主页：*https://github.com/yichengchen/clashX*  
+ClashX 软件相关介绍及说明可参考作者github主页，这里也是唯一官方的发布地址，所有这些代理软件的源头发布地址其实都是github：*https://github.com/yichengchen/clashX*  
  
-下载后自行按照提示安装即可  
+下载后按照提示安装即可，安装相信大家没有人不会的  
   
 [_下载ClashX_](http://laomao.cccccloud.com/%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/MAC%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/ClashX.dmg)  
   
@@ -27,20 +26,20 @@ ClashX 软件相关介绍及说明可参考作者github主页：*https://github.
 
 ### 2\. 一键订阅
 
-首先需要注册一个机场，选择机场可以参考我的另一篇笔记[*自用过的机场记录推荐*](https://vodomine.github.io/2023/08/21/Aircraft-used/)，注册机场后进入主页，如下图操作，其他机场界面可能不一致，但基本大同小异，其中都有一键订阅部分,选择导入到ClashX    
+购买个机场套餐，选择机场可以参考我的另一篇笔记[*自用过的机场记录推荐*](https://www.openwayz.com/jichang/)，按照机场教程获取订阅地址,选择导入到ClashX    
 
 ![复制订阅](/images/posts/ClashX/001.png) 
 ![导入订阅](/images/posts/ClashX/002.png)
 ![确认导入](/images/posts/ClashX/003.png)
 
-⚠️请确保上面的导入成功，若失败请手动复制订阅地址后导入，**前往菜单项的配置 – 托管配置 – 设置地址**
+⚠️一键导入不成功的，可以手动复制订阅地址后导入，**前往菜单项的配置 – 托管配置 – 设置地址**
 
 ![设置配置地址](/images/posts/ClashX/005.png)
 ![确认配置地址](/images/posts/ClashX/006.png)
 
 ### 3\. 启动 ClashX For Mac连接
 
-⚠️如何选择节点？一般推荐 自动选择。若卡则手动切换节点。  
+⚠️如何选择节点？一般推荐 自动选择。若上网卡顿可以手动切换节点。  
 ⚠️找到软件图标 右击点击 设置为系统代理 （有勾 ☑️ 则为开启再点击一次 则为 关闭（此时无☑️）  
 ⚠️如果无法使用，请尝试更换浏览器。或者检查浏览器插件是否冲突。  
 
@@ -52,4 +51,4 @@ ClashX 软件相关介绍及说明可参考作者github主页：*https://github.
 ![设置系统代理](/images/posts/ClashX/004.png)
 
 
-## 至此，可以无阻碍顺利上网了。   
+## 至此，设置完成，可以使用了。   

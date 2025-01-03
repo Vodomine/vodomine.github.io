@@ -2,7 +2,7 @@
 layout: post
 title: Clash删库始末及知识普及
 categories: 机场观察
-description: Clash删库的来龙去脉，及替代软件，Clash删库的影响
+description: 2023年11月初发生了Clash删库事件，很多不知情的小白在国内媒体上参与讨论传播，都上了热搜了，这种东西拿出来讨论也是无知，吓的所有这些软件的关联作者都删除了网上的下载链接，很多人不能区分Clash for windows和Clash内核，以及他们买的代理节点订阅之间的关系，本篇文章给大家说明一下相关内容
 keywords: Clash删库
 mermaid: false
 sequence: false
@@ -13,7 +13,7 @@ mindmap2: false
 topmost: false
 permalink: /:title/
 ---
-2023年11月初的Clash删库事件让我看得觉得相当的魔幻，很多不知情的小白用户在参与讨论传播，很多人不能区分Clash for windows和Clash内核，以及他们买的代理节点订阅之间的关系，本篇文章给大家说明一下相关内容。
+2023年11月初发生了Clash删库事件，很多不知情的小白在国内媒体上参与讨论传播，都上了热搜了，这种东西拿出来讨论也是无知，吓的所有这些软件的关联作者都删除了网上的下载链接，很多人不能区分Clash for windows和Clash内核，以及他们买的代理节点订阅之间的关系，本篇文章给大家说明一下相关内容。
 
 ### 名词解释
 

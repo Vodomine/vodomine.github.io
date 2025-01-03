@@ -2,7 +2,7 @@
 layout: post
 title: Clash for Android下载、使用教程
 categories: 代理设置教程
-description: ClashforAndroid使用入门设置教程，根据此教程，可以快速把Clash用起来
+description: ClashforAndroid类比clash for windows,它是安卓系统要用的代理软件，作用都一样，用户还可以使用Surfboard等软件，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单
 keywords: ClashforAndroid
 mermaid: false
 sequence: false
@@ -12,40 +12,28 @@ mindmap: false
 mindmap2: false
 permalink: /:title/
 ---
-ClashforAndroid使用clash内核，其原理是通过预先定义的规则，对网络连接进行转发，用于登录google等网站学习，查资料以及做外贸等商业活动。不过它已停止维护，目前更推荐使用Surfboard。     
-
-最大得优点是可以根据节点延时**自动选择最快节点**，从而实现以最快的速度来访问不同的网站。  
-
+ClashforAndroid类比clash for windows,它是安卓系统要用的代理软件，作用都一样，用户还可以使用Surfboard等软件，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单。对网络连接进行转发，用于登录google等网站学习，查资料以及做外贸等商业活动。不过它已停止维护，目前更推荐使用Surfboard。     
 
 ### 1、下载地址  
 
-[Clash for Android加速直接下载版本3.0.3](https://mirror.ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
+[Clash for Android3.0.3](https://mirror.ghproxy.com/https://raw.githubusercontent.com/OpenWayz/OpenWayz.github.io/main/clash-for-android-3-0-3-premium.apk)
 
-[Clash for Android Github下载页面](https://github.com/Kr328/ClashForAndroid/releases)，请下载版本号标记为“*Latest*”的版本（11月目前作者已删库，请下载上面3.0.3版本） 
-
-关于下载页各版本说明：
-* armeabiv-v7a: 第7代及以上的 ARM 处理器。2011年5月以后的生产的大部分Android设备都使用它.（通常下载这个就可以）
-* arm64-v8a: 第8代、64位ARM处理器，现在已经是主流版本，三星 Galaxy S6是其中之一。
-* armeabi: 第5代、第6代的ARM处理器，早期的手机用的比较多。
-* x86: 平板、模拟器用得比较多。
-* x86_64: 64位的平板。
 
 如果已经安装了google商店，可以直接搜索Clash For Android安装使用。 
 
-
-### 2、界面预览
+### 2、Clash for android使用界面
 
 <img src="/images/posts/Clashforandroid/main.png" width="50%" alt="Clashforandroid主界面" />
 
-1）主界面点击配置进入配置界面
+1）配置界面
 
 <img src="/images/posts/Clashforandroid/peizhi.png" width="50%" alt="Clashforandroid配置页面" /><img src="/images/posts/Clashforandroid/daoru.png" width="50%" alt="Clashforandroid导入" />
 
-2）点击软件右上角的 ➕ 键，添加配置文件，有两种添加配置文件的方式,通常选择从URL导入,即从订阅连接获取配置
+2）点击右上角的 ➕ 键，添加配置文件，选择从URL导入,即从订阅连接获取配置导入订阅使用。
 
 ### 3、订阅地址获取 
 
-首先需要注册一个机场，选择机场可以参考我的另一篇笔记🔥[**自用过的机场记录推荐**](https://www.openwayz.com/jichang/)，注册机场后进入主页，获取订阅地址，可点击一键导入Clash配置，如果失败可复制订阅地址，使用以下步骤： 
+购买机场套餐，选择机场可以参考我的另一篇笔记🔥[**自用过的机场记录推荐**](https://www.openwayz.com/jichang/)，可一键导入，如果失败也可复制订阅地址，使用以下步骤： 
 
 * 把订阅地址填入下图URL处，右上角点保存
 * 选中相应的机场配置，返回主界面

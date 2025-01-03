@@ -12,9 +12,10 @@ mindmap2: false
 topmost: false
 permalink: /:title/
 ---
-Shadowrocket又称小火箭是 iOS 系统最流行网络代理客户端，国内俗称「小火箭」。国内Apple Store无法下载，需要使用美区帐号登录应用商店下载，美区Shadowrocket售价2.9$，可使用共享帐号登录Apple Store下载。
+Shadowrocket大部分人都叫它小火箭，是最最经典的梯子代理软件了。国内Apple Store无法下载，需要使用美区或者其他外区apple id帐号登录应用商店下载，美区Shadowrocket售价2.9$，可使用共享帐号登录Apple Store下载。
 
-Shadowrocket搭配机场节点订阅链接使用，🔥[***值得购买的机场可点这里看看***](https://www.openwayz.com/jichang/)
+Shadowrocket只是个壳子，相当于是个手机，需要搭配购买的机场节点订阅链接使用，🔥[***值得购买的机场可点这里看看***](https://www.openwayz.com/jichang/)
+我分享了这个共享ID,不过不知道能持续到什么时候，上面我汇总的机场基本都提供共享账号，订阅有效用户都可以获取。
 
 ### 换美区ID登录
 
