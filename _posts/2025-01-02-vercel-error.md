@@ -2,7 +2,7 @@
 layout: post
 title: Vercel编译Github Page托管的Jekyll静态网站突然失败报错
 categories: 经验分享
-description: Vercel编译Github Page托管的Jekyll静态网站突然失败报错，It looks like you're trying to use Nokogiri as a precompiled native gem on a system with an unsupported version of glibc.
+description: Vercel编译Github Page托管的Jekyll静态网站突然失败报错，It looks like you're trying to use Nokogiri as a precompiled native gem on a system with an unsupported version of glibc
 keywords: X509
 mermaid: false
 sequence: false
