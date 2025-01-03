@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telegram国内+86手机收不到验证码怎么办？
+title: Telegram国内+86手机收不到验证码怎么办？(方法已失效)
 categories: 代理工具下载
 description: 国内如何注册Telegram(电报)APP,Telegram国内+86手机收不到验证码需要如何设置才能收到验证码
 keywords: Telegram注册
@@ -13,7 +13,8 @@ mindmap2: false
 topmost: false
 permalink: /:title/
 ---
-### Telegram注册方法
+### Telegram注册方法（使用+86手机注册方法已失效）
+
 Telegram是一款国外的及时聊天软件，非正式简称TG、电报、纸飞机，客户端是源码开源，主打高度私密， 任何第三方甚至Telegram官方也无法看到通信信息，正是因为它的高度私密，脱离监管，所以被进行了一定程度的屏蔽，Telegram服务器国内直连是无法访问的，注册时需要用到手机号，国内下载注册Telegram时注册会遇到+86手机收不到验证码的问题。别着急，不用去买国外手机号或者买各种虚拟号，其实国内手机号是可以注册的，本篇具体说一下方法，当然更推荐使用Giffgaff等国内能接收验证码的国外手机号来注册。
 
 由于 Telegram 服务器被屏蔽，所以注册时需要在外网环境下进行操作。这个时候可以在浏览器访问 Telegram 的官网地址，网络是否能联通。一般情况下，无法接收验证短信的问题，多是因为科学上网未正常开启。
