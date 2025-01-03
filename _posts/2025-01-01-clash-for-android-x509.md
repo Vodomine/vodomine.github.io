@@ -22,11 +22,12 @@ permalink: /:title/
 
 ### 解决办法
 
-解决方法也很简单，机场的订阅只是个加密的线路规则文件而已，代理软件都是通用的，Clash for Android不能用，我们就换个其他比较新的正在维护的软件即可Surfboard或者clash meta for android等，推荐使用Surfboard,在安卓系统上Surfboard 的界面相比Clash 更为美观、直观，可以在主界面很方便地查看网络速度、代理规则，公网IP等等信息，Surfboard的官方下载地址在Github上，下载链接https://github.com/getsurfboard/surfboard/releases
+解决方法也很简单，机场的订阅只是个加密的线路规则文件而已，代理软件都是通用的，Clash for Android不能用，我们就换个其他比较新的正在维护的软件即可Surfboard或者clash meta for android等，推荐使用Surfboard,在安卓系统上Surfboard 的界面相比Clash 更为美观、直观，可以在主界面很方便地查看网络速度、代理规则，公网IP等等信息，Surfboard的官方下载地址在Github上，下载链接[https://github.com/getsurfboard/surfboard/releases](https://github.com/getsurfboard/surfboard/releases)
 使用方式也很简单，都是通用的，复制链接，导入订阅，选择规则模式，开启代理开关就可以用了。
 
 ![surfboard](/images/posts/surfboard/surfboard.png)
 
+  
 
 
 
