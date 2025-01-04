@@ -2,7 +2,7 @@
 layout: post
 title: ClashX for Mac下载、使用教程
 categories: 代理设置教程
-description: ClashX For Mac类比clash for windows,它是苹果电脑要用的代理软件，作用都一样，用户还可以使用clashx pro，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单
+description: ClashX For Mac类比clash for windows,它是苹果电脑要用的代理软件，作用都一样，用户还可以使用clashx pro，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单，github是唯一官方的发布地址
 keywords: ClashX
 mermaid: false
 sequence: false

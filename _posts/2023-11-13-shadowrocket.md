@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小火箭Shadowrocket美区共享帐号免费下载
+title: 小火箭Shadowrocket外区共享帐号分享
 categories: 代理工具下载
 description: 小火箭Shadowrocket美区共享帐号，使用此共享账号可以免费下载小火箭Shadowrocket,下载完退出即可，切记按照教程操作，不要在设置里登录，只能在app store里登录，不然会导致手机被锁，等同于报废了，如果共享账号失效，我博客中推荐的机场都提供共享账号，注册后就能从教程中找到，也是一个选择。
 keywords: Shadowrocket,共享账号
