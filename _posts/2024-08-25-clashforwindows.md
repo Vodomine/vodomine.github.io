@@ -2,7 +2,7 @@
 layout: post
 title: Clash for Windows下载、使用教程
 categories: 代理设置教程
-description: Clash for windows使用设置教程,参照此篇教程可下载，并且快速应用订阅实现上网
+description: Clash for windows使用设置教程,参照此篇教程可下载，并且快速应用订阅实现上网，Clash号称小猫咪，基本大家都知道这是干吗用的，有的人可能不知道机场，但是知道clash是干嘛用的，其实clash只是个内核，上面加了一层皮肤，界面不一样就衍生出了现在的很多版本，什么clash for windows,clash verge等等
 keywords: Clash
 mermaid: false
 sequence: false

@@ -2,7 +2,7 @@
 layout: post
 title: Clash，Clash Verge等网络代理客户端下载
 categories: 代理工具下载
-description: 许多用户找不到哪里下载这些Clash通用的代理软件，我收集了一些地址，不能保证有效能持续多久，遇到不能下载的用户，在搜索引擎搜搜吧，这没啥难的，很容易就能搜到。
+description: 许多用户找不到哪里下载这些Clash通用的代理软件，我收集了一些地址，不能保证有效能持续多久，遇到不能下载的用户，在搜索引擎搜搜吧，这没啥难的，很容易就能搜到。选择最新的版本下载就可以，如果github下载速度慢，在文件下载地址前面加上https://mirror.ghproxy.com这串字符
 keywords: Clash下载
 mermaid: false
 sequence: false

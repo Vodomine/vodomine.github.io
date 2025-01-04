@@ -2,7 +2,7 @@
 layout: post
 title: 网站突然在必应Bing无法被搜索到，索引全部没了
 categories: 经验分享
-description: 突然发现我的博客在Bing搜索引擎上的流量锐减，几乎跌到了零，使用bing搜索我的网站，提示搜多不到相关结果，疑似被拉黑了
+description: 2024/12/13日突然发现我的博客在Bing搜索引擎上的流量锐减，几乎跌到了零，于是我使用bing搜索我的网站，发现没有任何文章能搜到，搜索site:www.openwayz.com提示没有与此相关的结果，似乎整个网站被bing拉黑除名了，但是在其他搜索引擎上的索引确实正常的，可以确定是触发了bing的K站机制
 keywords: Bing索引消失
 mermaid: false
 sequence: false

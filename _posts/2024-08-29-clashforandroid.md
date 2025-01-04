@@ -2,7 +2,7 @@
 layout: post
 title: Clash for Android下载、使用教程
 categories: 代理设置教程
-description: ClashforAndroid类比clash for windows,它是安卓系统要用的代理软件，作用都一样，用户还可以使用Surfboard等软件，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单
+description: ClashforAndroid类比clash for windows,它是安卓系统要用的代理软件，作用都一样，用户还可以使用Surfboard等软件，操作也都基本相同，使用很简单。其实吧，所有的代理软件使用都是一个步骤，导入订阅，选择节点，开启系统代理，选择代理模式，就可以使用了，十分简单，目前更推荐使用Surfboard
 keywords: ClashforAndroid
 mermaid: false
 sequence: false
@@ -25,7 +25,7 @@ ClashforAndroid类比clash for windows,它是安卓系统要用的代理软件�
 
 <img src="/images/posts/Clashforandroid/main.png" width="50%" alt="Clashforandroid主界面" />
 
-1）配置界面
+1）APP界面
 
 <img src="/images/posts/Clashforandroid/peizhi.png" width="50%" alt="Clashforandroid配置页面" /><img src="/images/posts/Clashforandroid/daoru.png" width="50%" alt="Clashforandroid导入" />
 
