@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Racknerd如何用Paypal支付
-categories: 经验分享
+categories: VPS
 description: Racknerd突然不能用Paypal支付了,以前我都是用Paypal支付，突然今天的续费账单不能用了，查找了些资料，也咨询了客服，最终成功支付了，把解决方法整理出来供大家参考，Racknerd用的是第三方支付渠道FastSpring，这应该是FastSpring增加了相关的风控检测手段所以才导致的这个问题
 keywords: Racknerd
 mermaid: false

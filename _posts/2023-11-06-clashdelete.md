@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clash删库始末及知识普及
+title: Clash系列很多软件作者删除了github仓库，这是为什么？
 categories: 机场观察
 description: 2023年11月初发生了Clash删库事件，很多不知情的小白在国内媒体上参与讨论传播，都上了热搜了，这种东西拿出来讨论也是无知，吓的所有这些软件的关联作者都删除了网上的下载链接，很多人不能区分Clash for windows和Clash内核，以及他们买的代理节点订阅之间的关系，本篇文章给大家说明一下相关内容
 keywords: Clash删库
