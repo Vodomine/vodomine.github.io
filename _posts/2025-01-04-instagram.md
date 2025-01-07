@@ -14,7 +14,7 @@ topmost: false
 permalink: /:title/
 ---
 
-海外的社交媒体APP中Instagram和TikTok是两个巨头存在，在短视频领域现在真的挺相似的，以往我们都是通过Instagram上面的分享去去了解海外一些明星以及普通人的生活，不过后来被TikTok超车，TikTok能够让任何人都能无障碍的发视频，我因为以前就在使用Instagram,已经有几年了，所以一直在用，而TikTok在国内想使用的话比较麻烦，不仅需要梯子这个基础条件，还需要手机得拔掉SIM卡，关掉GPS,比较麻烦，所以主用手机上都没有装TikTok，但近期Instagram加强了风控，听到了不少账号被限制的问题，而我的目前没遇到，总结了一些使用中需要避坑的事项给大家参考。
+海外的社交媒体APP中Instagram和TikTok是两个巨头存在，在短视频领域现在真的挺相似的，以往我们都是通过Instagram上面的分享去了解海外一些明星以及普通人的生活，不过后来被TikTok超车，TikTok能够让任何人都能无障碍的发视频，我因为以前就在使用Instagram,已经有几年了，所以一直在用，而TikTok在国内想使用的话比较麻烦，不仅需要梯子这个基础条件，还需要手机得拔掉SIM卡，关掉GPS,比较麻烦，所以主用手机上都没有装TikTok，但近期Instagram加强了风控，听到了不少账号被限制的问题，而我的目前没遇到，总结了一些使用中需要避坑的事项给大家参考。
 
 ![instagram](/images/posts/instagram/instagram.png)
 
