@@ -4,6 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!-- 添加 noindex 元标记 -->
+    {% if page.url contains '/page' %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
+
+    {% seo %}
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/vendor/primer-css/css/primer.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/components/collection.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/components/repo-card.css">
@@ -12,12 +18,6 @@
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/globals/common.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/globals/responsive.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/posts/index.css">
-    <!-- 添加 noindex 元标记 -->
-    {% if page.url contains '/page' %}
-    <meta name="robots" content="noindex, follow">
-    {% endif %}
-
-    {% seo %}
   
     {% if site.cdn.jsdelivr.enabled %}
     {% assign highlight_base_url = 'https://fastly.jsdelivr.net/gh/mzlogin/rouge-themes@master/dist' %}
