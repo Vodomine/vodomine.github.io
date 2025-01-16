@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何解决clash for android导入订阅报x509 certificate signed by unknown authority的错误
+title: 解决导入订阅报错x509 certificate signed by unknown authority
 categories: 经验分享
 description: 有些安卓手机用户的用户使用clash for android代理软件来做梯子，但是导入机场订阅的时候会报错，failed to verify certificate:x509:certificate signed by unknown authority,这种问题该如何解决呢？本文介绍一下产生该问题的原因以及解决方案
 keywords: X509
