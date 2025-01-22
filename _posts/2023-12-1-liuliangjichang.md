@@ -20,7 +20,7 @@ permalink: /:title/
 
 中转机场，拥有香港、日本、新加坡、美国、德国等地区节点，节点在线稳定可用，流量套餐有包年流量包50元125G,和包年流量包100元250G两个套餐可选，也有包月套餐可选。
 
-[OTE Accelerator官网地址](https://uso.oteacc.org/passport.html#/register?code=NJ0rQD4l) 
+OTE Accelerator官网地址 看本站置顶文章
 
 **套餐：**
 
@@ -34,7 +34,7 @@ permalink: /:title/
 
 中转机场，定价便宜，使用可靠，比较少见的有不限时的流量套餐。
 
-[无痕NET官网地址1](https://us.wuhenlink.cc/pass.html#/register?code=bv1QpNiK)      
+无痕NET官网地址 看本站置顶文章  
 
 **套餐：**
 

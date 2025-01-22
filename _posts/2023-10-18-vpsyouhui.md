@@ -37,6 +37,6 @@ permalink: /:title/
 
 优惠码：BWHNCXNVXV
 
-[购买链接](https://bandwagonhost.com/aff.php?aff=72669&pid=94) 
+购买请登录bandwagonhost.com网站，不过这种套餐网站基本平时都是卖光的状态，只能靠蹲活动，或者去论坛收。
 
 可以用来自建节点，就算后面转手卖出也不亏钱，有需要的可以去论坛收。           
