@@ -11,6 +11,8 @@ description: 分享记录个人博客，一些技术文章，海外上网技巧�
 #keywords: 机场,VPN,Clash,VaRay,科学上网
 timezone: Asia/Shanghai
 encoding: "utf-8"
+lang: zh
+locale: zh_CN
 # 页面左下角显示的年份
 since: 2023-2025
 # 源码仓库，请替换成自己的
