@@ -140,9 +140,6 @@ collections:
     fragments:
         output: true
         permalink: /fragment/:path/
-jekyll-seo-tag:
-  show_generator: false
-
 # ---------------- #
 #      Comments    #
 # ---------------- #
