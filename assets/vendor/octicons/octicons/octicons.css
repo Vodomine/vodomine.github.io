@@ -219,8 +219,3 @@
 .octicon-remove-close:before,
 .octicon-x:before { content: '\f081'} /*  */
 .octicon-zap:before { content: '\26A1'} /* ⚡ */
-.site-title {
-  font-size: 2em; /* 调整字体大小以突出显示 */
-  font-weight: bold;
-  /* 其他样式 */
-}
