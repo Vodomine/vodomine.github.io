@@ -102,7 +102,10 @@
 
 /* 原代码中 .site-header h1 的样式 */
 .site-header .site-title {
-    float: left;
+    float: left
+}
+
+.site-header .site-title .octicon {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 32px;
@@ -115,10 +118,6 @@
 .site-header .site-title a {
     white-space: nowrap;
     color: #333;
-}
-
-.site-header .site-title {
-    float: left;
 }
 
 .site-header .site-title a:hover {
