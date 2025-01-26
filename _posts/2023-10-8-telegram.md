@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Telegram国内手机号收不到验证码怎么办？
-categories: 代理工具下载
+categories: 经验分享
 description: Telegram国内+86手机收不到验证码需要如何设置才能收到验证码，现在用+86手机号注册基本已经不可能收到验证码了，更推荐用国外的电话卡注册，比如giffgaff,或者直接购买别人注册的成品号，不过这种号不太稳，很容易被突然封号，如果只是随便看看不在意倒是可以选，不然还是搞个手机卡来注册比较稳定可靠
 keywords: Telegram注册
 mermaid: false
