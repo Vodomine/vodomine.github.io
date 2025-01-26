@@ -19,11 +19,6 @@
       "source": "/Telegram(/)?",
       "destination": "/telegram/",
       "permanent": true
-    },
-    {
-      "source": "/usechatgpt(/)?",
-      "destination": "/404",
-      "permanent": false
     }
   ]
 }
