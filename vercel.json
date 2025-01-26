@@ -6,48 +6,13 @@
       "permanent": true
     },
     {
-      "source": "/2023/08/21/Aircraft-used(/)?",
-      "destination": "/2023/08/21/aircraft-used/",
-      "permanent": true
-    },
-    {
       "source": "/VPSyouhui(/)?",
       "destination": "/vpsyouhui/",
       "permanent": true
     },
     {
-      "source": "/Clashdelete(/)?",
-      "destination": "/clashdelete/",
-      "permanent": true
-    },
-    {
-      "source": "/ClashForAndroid(/)?",
-      "destination": "/clashforandroid/",
-      "permanent": true
-    },
-    {
-      "source": "/Clashdownload(/)?",
-      "destination": "/clashdownload/",
-      "permanent": true
-    },
-    {
-      "source": "/ClashForWindows(/)?",
-      "destination": "/clashforwindows/",
-      "permanent": true
-    },
-    {
-      "source": "/ClashXForMac(/)?",
-      "destination": "/clashxformac/",
-      "permanent": true
-    },
-    {
       "source": "/BGPIPLC(/)?",
       "destination": "/bgpiplc/",
-      "permanent": true
-    },
-    {
-      "source": "/NiceDuck(/)?",
-      "destination": "/niceduck/",
       "permanent": true
     },
     {
@@ -57,21 +22,6 @@
     },
     {
       "source": "/usechatgpt(/)?",
-      "destination": "/404",
-      "permanent": false
-    },
-    {
-      "source": "/naiu(/)?",
-      "destination": "/404",
-      "permanent": false
-    },
-    {
-      "source": "/taishan(/)?",
-      "destination": "/404",
-      "permanent": false
-    },
-    {
-      "source": "/atomlantis(/)?",
       "destination": "/404",
       "permanent": false
     }
