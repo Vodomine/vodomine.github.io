@@ -1,5 +1,7 @@
 Sitemap: https://www.openwayz.com/sitemap.xml
 
 User-agent: *
-Disallow:
-
+Disallow: /page2
+Disallow: /page3
+Disallow: /page4
+Disallow: /page5
