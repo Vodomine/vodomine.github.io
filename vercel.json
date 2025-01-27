@@ -16,6 +16,11 @@
       "permanent": true
     },
     {
+      "source": "/ClashXForMac(/)?",
+      "destination": "/clashxformac/",
+      "permanent": true
+    },
+    {
       "source": "/Telegram(/)?",
       "destination": "/telegram/",
       "permanent": true
