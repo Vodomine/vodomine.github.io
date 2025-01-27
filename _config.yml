@@ -7,7 +7,7 @@ root: /
 date_format: "ordinal"
 title: 自由之路
 subtitle: "每一个人都在寻求自由之路"
-description: 分享记录个人博客，一些技术文章，海外上网技巧工具
+description: 分享记录个人博客，技术文章，海外上网机场推荐，加密货币投资出入金相关经验
 #keywords: 机场,VPN,Clash,VaRay,科学上网
 timezone: Asia/Shanghai
 encoding: "utf-8"
