@@ -30,21 +30,21 @@ Racknerd是一个主要经营美国VPS和独立服务器的商家，有中国团
 
 | 处理器CPU | 内存RAM | SSD硬盘容量 | 流量/月 | 价格/年 | 购买链接 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1核 | 1GB | 20GB | 1.5T | 10.99美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=879) |
-| 2核 | 2.5GB | 40GB | 3 | 18.93美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=880) |
-| 2核 | 3.5GB | 650B | 5.5T | 27.89美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=881) |
-| 3核 | 4.5GB | 100GB | 8.5T | 39.88美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=882) |
-| 4核 | 5GB | 130GB | 12T | 55.93美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=883) |
+| 1核 | 1GB | 20GB | 1.5T | 10.99美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=879) |
+| 2核 | 2.5GB | 40GB | 3 | 18.93美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=880) |
+| 2核 | 3.5GB | 650B | 5.5T | 27.89美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=881) |
+| 3核 | 4.5GB | 100GB | 8.5T | 39.88美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=882) |
+| 4核 | 5GB | 130GB | 12T | 55.93美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=883) |
 
 ### 2025年New Year套餐
 
 | 处理器CPU | 内存RAM | SSD硬盘容量 | 流量/月 | 价格/年 | 购买链接 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1核 | 1GB | 24GB | 2T | 11.29美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=903) |
-| 1核 | 2GB | 40GB | 3.5 | 18.29美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=904) |
-| 2核 | 3.5GB | 65GB | 7T | 32.49美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=905) |
-| 3核 | 4GB | 105GB | 9T | 43.88美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=906) |
-| 4核 | 6GB | 140GB | 12T | 59.99美元 | [点此购买](https://my.racknerd.com/aff.php?aff=9815&pid=907) |
+| 1核 | 1GB | 24GB | 2T | 11.29美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=903) |
+| 1核 | 2GB | 40GB | 3.5 | 18.29美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=904) |
+| 2核 | 3.5GB | 65GB | 7T | 32.49美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=905) |
+| 3核 | 4GB | 105GB | 9T | 43.88美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=906) |
+| 4核 | 6GB | 140GB | 12T | 59.99美元 | [racknerd购买](https://my.racknerd.com/aff.php?aff=9815&pid=907) |
 
   
 
