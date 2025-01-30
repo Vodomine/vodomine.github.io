@@ -16,13 +16,7 @@ ClashX For Mac类比clash for windows,它是苹果电脑要用的代理软件，
 
 ### 1\. 下载ClashX
 
-ClashX 软件相关介绍及说明可参考作者github主页，这里也是唯一官方的发布地址，所有这些代理软件的源头发布地址其实都是github：*https://github.com/yichengchen/clashX*  
- 
-下载后按照提示安装即可，安装相信大家没有人不会的  
-  
-[_下载ClashX_](http://laomao.cccccloud.com/%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/MAC%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/ClashX.dmg)  
-  
-[_备用:ClashX_](http://laomao.cccccloud.com/%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/MAC%E9%80%9A%E7%94%A8%E5%AE%A2%E6%88%B7%E7%AB%AF/ClashX.dmg)
+ClashX 软件相关介绍及说明可参考作者github主页，这里也是唯一官方的发布地址，所有这些代理软件的源头发布地址其实都是github，但原作者已经删库了,这个链接是其他用户存档的：*https://github.com/bannedbook/ClashX/releases*  
 
 ### 2\. 一键订阅
 
