@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     
     <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description | strip_html | strip_newlines }}">
+    {% elsif page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    {% else %}
+    <meta name="description" content="{{ content | strip_html | strip_newlines | truncatewords: 100 }}">
+    {% endif %}
+
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
@@ -17,13 +25,10 @@
     <meta name="keywords" content="{{ keywords | strip_html | strip_newlines}}">
     <meta name="og:keywords" content="{{ keywords | strip_html | strip_newlines}}">
     {% if page.description %}
-    <meta name="description" content="{{ page.description | strip_html | strip_newlines }}">
     <meta name="og:description" content="{{ page.description | strip_html | strip_newlines }}">
     {% elsif page.excerpt %}
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
     <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
     {% else %}
-    <meta name="description" content="{{ content | strip_html | strip_newlines | truncatewords: 100 }}">
     <meta name="og:description" content="{{ content | strip_html | strip_newlines | truncatewords: 100 }}">
     {% endif %}
 
