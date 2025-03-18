@@ -7,7 +7,7 @@
     
     <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
 
-    {% assign meta_description = page.description | default: page.excerpt | default: content | strip_html | strip_newlines | truncatewords: 100 %}
+    {% assign meta_description = page.description | default: page.excerpt | default: content | strip_html | strip_newlines | truncate: 160 %}
     <meta name="description" content="{{ meta_description }}">
     <meta property="og:description" content="{{ meta_description }}">
     
