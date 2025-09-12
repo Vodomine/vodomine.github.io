@@ -21,7 +21,7 @@ permalink: /:title/
 
 这里再补充一个备选，后期再有合适的还在这篇文章里补充，这里不是我目前在用的。
  
-[OTE官网地址](https://ust.oteacc.org/passport.html#/register?code=QYNH6bxw) 
+[OTE官网地址]() 
 
 OTE Accelerator官网地址 看本站置顶文章
 
@@ -39,7 +39,7 @@ OTE Accelerator官网地址 看本站置顶文章
 
 开业一年多，注册可免费试用1G1小时，试用无问题再购买（目前已关闭试用），跟OTE差不多，老板手里也有不少场子，这个是分站，有包月套餐，比较少见的有不限时的流量套餐，这是一大特色，买多少用多少，没有订阅有效时间，不会过期。
 
-[无痕NET官网地址](https://us.wuhenlink.cc/pass.html#/register?code=xidhhC4Z)   
+[无痕NET官网地址]()   
 
 **套餐：**
 
