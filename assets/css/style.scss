@@ -2,4 +2,9 @@
 ---
 @charset "utf-8";
 
-@import "main";
+@import "variables";
+@import "mixins";
+@import "base";
+@import "layout";
+@import "post";
+@import "syntax";
